@@ -1,7 +1,7 @@
 ---
 court: "Delaware Court of Chancery"
 decided: "1937-06-30"
-citations: ["22 Del. Ch. 74", "22 Del. Ch. 70"]
+citations: ["22 Del. Ch. 74"]
 reporter: "del-ch"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
