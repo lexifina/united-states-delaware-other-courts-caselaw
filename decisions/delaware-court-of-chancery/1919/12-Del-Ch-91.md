@@ -1,0 +1,25 @@
+---
+court: "Delaware Court of Chancery"
+decided: "1919-05-12"
+citations: ["12 Del. Ch. 91"]
+reporter: "del-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jacob M. Gootee, and Others, on behalf of themselves and the other Officers, Trustees and Members of Jefferson Circle No. 4, Brotherhood of America of Bethel, County of Sussex, State of Delaware, an unincorporated association of persons, and not being an ordinary partnership, vs. Henry C. Riggin, and Others, Officers, Trustees and Members of Jefferson Circle of Bethel, County of Sussex and State of Delaware, Brotherhood of America of New Jersey, Continent of America, an unincorporated association of persons, and not being an ordinary partnership, as representing themselves and all others having the same interest."]
+source_url: "https://static.case.law/del-ch/12/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 458191
+cites_cases: ["4 Del. Ch. 399"]
+---
+
+# Gootee v. Riggin
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+The bill is filed by the trustees of a circle of a national beneficial organization, which may be called Circle A, against the trustees of another circle of another similar organization, which may be called Circle B. It was alleged that the defendants and others were formerly members of Circle A, and without authority to do so withdrew therefrom, became members of another national organization with a similar purpose, took certain personal property of Circle A, such as paraphernalia, rituals, books, records, etc., from the lodge room of Circle A to another room in another building, where they still are. On July 14, 1915, the defendants obtained from the Sussex Trust Company, of Laurel, Delaware, $825 which was then standing to the credit of Circle A. The complainants claim that as the trustees of Circle A they are entitled to possession of the property, including the money, but that the defendants refused to deliver or pay the same.
+A plea of statute of limitations was filed and a replication thereto filed. Thereupon testimony was heard as to the plea. It was shown that the personal property was removed in December, 1914, and the money obtained from the trust company July 14, 1915. The bill was filed September 3, 1918. For some reason undisclosed, the complainants proved that on January 5, 1916, they brought suit in the Superior Court, and on April 5, 1918, after a jury had been impaneled in the case, a juror was withdrawn on motion of the attorney for the plaintiff in the action, and the case was continued, and so far as appears is still pending there. It appears, then, that the right to enforce a return of the property and money, if such right ever existed, accrued more than three years prior to the filing of this bill, and if the statute of limitations applies, this suit is barred thereby.
+The theory of the bill is that there is a trust, and that therefore the statute,' even by analogy, does not limit the right to recover the property and money in the hands of the defendants as trustees. But there is no trust in any true sense. Though called trustees, the defendants are really directors of an unincorporated association. Even if there be i trust, there has been no concealment of the transaction, or any delay in ascertaining the facts by the complainants, based on any conduct of the defendants. The case of the complainants is that the officers of an unincorporated association wrongly seceded, formed another society and wrongly carried to the new society personal property and money of the former, and refuses to return or repay.
+The purpose of the bill was to recover possession of specific property and enforce payment of a certain sum of money. The statute of limitations would have barred actions of replevin and assumpsit if brought at law at the time the bill was filed. By the authority of Dodd v. Wilson, 4 Del. Ch. 399, 407, the statute is equally applicable to a bill for like purpose in a Court of Chancery. There the estate of a surety sought to obtain from the principal reimbursement of moneys paid by the estate of the surety, and a defense by analogy of the statute of limitations was set up.. Chancellor Bates said:
+“So far as concerns relief by a decree for the repayment of the money as so much money paid for the use of the defendant — a decree founded only upon his implied contract to repay it — the plea must prevail. For more than three years elapsed between the date of the payment of the debt by Barkley Wilson’s administratrix (August 16, 1864), and the filing of this bill on May 21, 1869. This being the statutory period of limitation against simple contract liabilities, such as would bar an action at law, equity will apply the same limitation as against a decree for the direct repayment of the money.”
+Under such circumstances the plea is sustained, or rather, by analogy, bars the complainants from any relief, and the bill must therefore be dismissed, with costs on the complainants.
