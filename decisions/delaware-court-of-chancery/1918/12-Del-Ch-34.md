@@ -1,0 +1,26 @@
+---
+court: "Delaware Court of Chancery"
+decided: "1918-05-23"
+citations: ["12 Del. Ch. 34"]
+reporter: "del-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles W. Jefferson, vs. John C. Stuckert and James I. Padley."]
+source_url: "https://static.case.law/del-ch/12/cases/0034-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 458230
+cites_cases: ["105 C. C. A. 425", "182 Fed. 963", "2 Del. Ch. 27"]
+---
+
+# Jefferson v. Stuckert
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+By the plea the question as to the effect of the new Rule No. 85 is judicially raised, for the first time. If a complainant fails to prosecute his cause with the diligence required by the rules, and if in consequence thereof he. is deemed to have abandoned the cause, and the Register in Chancery marks on the record a dismissal of the cause, is such disposition of the cause a bar to the filing of another bill with the same charges, averments and prayers ?
+It is a rule recognized everywhere that if a cause be .disposed of on any ground which did not go to the merits of the action, the judgment rendered will not bar another suit for the same subject matter. It is important in dismissing a bill either to state the specific reasons on which the decree is based, or to provide in the order that the bill is dismissed without prejudice to the right of the complainant to file" another bill. In some states the dismissal of a bill will be presumed to be on its merits, unless the record expressly shows the contrary; and in other states the contrary view prevails. The case of Cochran v. Couper, 2 Del. Ch. 27, is cited in 23 Cyc. 1144, as supporting the view first stated. But it is not clear that it upholds that rule. However, it is not necessary to decide in this case which of these two views is sound, because a dismissal under Rule 85 is clearly not based on a hearing on the merits, but for want of prosecution. Its operation is automatic, the rule being self operative, without a decree or order of the court; and the entry by the Register does not involve an exercise of discretion or judgment, but is purely an administrative routine notation of the result of delay in procedure. True, the rule declares that as a result of the failure to progress, the complainant is deemed to have abandoned the cause. But a dismissal by judicial order for want of prosecution is based on that theory. The rule has no greater effect than a judicial dismissal for want of prosecution.
+It is a rule everywhere recognized as sound and well established, that a dismissal for want of prosecution does not go to the merits of the cause, and therefore is not a bar to another suit based on the same subject matter. Story’s Equity Pleading, §793; 1 Whitehouse Equity Practice, § 323; 1 Daniell’s Chancery Pleading and Practice, 811; Hansard v. Hardy, 18 Ves., Jr., 455, 460, 18 Eng. Reprint 389; Brown v. Fletcher, 182 Fed. 963, 980, 105 C. C. A. 425. Indeed, no authority to the contrary has been cited or found. The defendant’s solicitor urges loches, but the principle does not apply on the point here involved. He also cites the new Rule 82, which imposes the consequence of dismissal where after the testimony in a cause has been taken and returned, the complainant fails for thirty days to move for a hearing of the cause by the Chancellor. It is urged that by this latter rule the dismissal is absolute, following the English practice under the orders in court, promulgated in 1845 and draws the inference of a like consequence as to Rule 85. . But it is not necessary at this time to declare the effect of Rule 82.
+The cause of Cochran v. Couper, mentioned above, does not apply here, for in that case a hearing on the merits had been had in the prior suit. The complainant in the cited case was barred from prosecuting the second suit because though a married woman the complainant had theretofore sued alone to enforce a right to which she individually was entitled, claiming that she had been divorced from her husband who was then living, but failed to offer sufficient proof of the divorce. Her right to sue depended on a fact, and as the court had found that she was unable to prove it, she was not entitled to another chance to do so.
+For the reason, therefore, that the former bill of the complainant in this cause was in effect dismissed for want of prosecution, that disposition of the case does not bar another suit for the same purpose.
+The solicitor for the complainant urges that as the answer is to the entire bill it overrules the plea, and that new Rule 36, which requires the defendant to answer notwithstanding the filing of a plea or demurrer, does not change the ancient rule. The latter contention is probably true. The purpose of Rule 36 is to avoid delays of dilatory pleas; for if a plea appear not to be dilatory the Chancellor may relieve the defendant of a duty to answer until the plea is heard. It is not entirely clear, however, that the rule that a general answer overrules a plea should apply with respect to a plea such as this. So the point is not now passed upon.
+The plea will be overruled, and the defendant having answered the bill, the cause will proceed.
