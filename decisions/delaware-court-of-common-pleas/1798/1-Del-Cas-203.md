@@ -1,7 +1,7 @@
 ---
 court: "Delaware Court of Common Pleas"
 decided: "1798-11-22"
-citations: ["1 Del. Cas. 203", "Wilson’s Red Book, 217", "2 Del. Cas. 107", "Rodney’s Notes"]
+citations: ["1 Del. Cas. 203", "Wilson’s Red Book, 217"]
 reporter: "del-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
