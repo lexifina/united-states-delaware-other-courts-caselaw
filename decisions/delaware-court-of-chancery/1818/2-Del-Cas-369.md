@@ -1,0 +1,30 @@
+---
+court: "Delaware Court of Chancery"
+decided: "1818-02-19"
+citations: ["2 Del. Cas. 369", "Ridgely’s Notebook II, 5"]
+reporter: "del-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DANIEL REYNOLDS v. THOMAS REYNOLDS."]
+source_url: "https://static.case.law/del-cas/2/cases/0369-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 503410
+---
+
+# Reynolds v. Reynolds
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+The bill states that it was agreed by the parties previous to the sale that the defendant should purchase the land on behalf of the complainant, and that after the sale it was understood and agreed by the parties that the defendant purchased the land on behalf of the complainant. The defendant in his answer denies that the purchase was made for the complainant, and that there was any agreement to that effect.
+The written and record testimony is that Jonathan Manlove, the Sheriff of Kent County, by due process of law sold the land of the complainant at the suit of Joseph Barker in June, 1804, to the defendant for £375. That Manlove commenced an action against the defendant, Thomas Reynolds, for the purchase money in the Supreme Court, to March Term-, 1805, and recovered a judgment thereon at October [Term], 1806. That on July 31,1807, Thomas Reynolds paid to Manlove £1203, the principal, interest and costs of said judgment, as by Manlove’s receipt. This money was paid to Manlove by Reynolds, the defendant, satisfying judgments standing against Daniel Reynolds for which the sheriff was responsible, and by the payment of some cash; all applied to the judgments against complainant. That on October 23, 1807, Thomas Reynolds obtained a sheriff’s deed for the land. On March 26, 1806, Daniel Reynolds executed an instrument of writing under his hand and seal, which attested that he on that day delivered up all his right and possession of all and singular his lands unto his brother, Michael Reynolds. Daniel Reynolds in March, 1806, left the State of Delaware and went to Ohio and there continued until 1807. Previous to his departure, in the presence of Joseph Barker, in said month of March, 1806, Daniel and Thomas Reynolds, the parties, verbally agreed that when he, Daniel, should leave the state, he would leave his land (the land in controversy) in possession of Thomas, the defendant; that Thomas should receive the rents and apply them to the payment of Daniel’s debts; that Daniel should return to Delaware after the expiration of two years. Thomas had not yet been in possession of the land; and it has not been shown when or how Daniel did obtain the possession of it. Daniel retained it until he left Delaware in March, 1806, and then he delivered it to Michael Reynolds.
+The witnesses generally proved that the land was worth about $120 per annum; and that its fee simple value was from $1200 to $2000.
+The paroi testimony further proved that the defendant, after Daniel’s return, had declared that he would give Daniel $800 if Daniel would convey his right in the land to him, Thomas; that he, Thomas, had been generally out of pocket on account of Daniel, and if that sum were repaid, Daniel should be welcome to the land. And some witnesses said that it was agreed, and that Thomas had said that it was agreed by him and Daniel that Dan-* iel should go off and stay two years; that Thomas and Michael should buy up Daniel’s debts and pay therefor out of the rents of the land. That Thomas had said that he bid off the land at sheriff’s sale for Daniel himself, and that Daniel was to hold the land as he had done before; one of the witnesses said that Thomas told him so shortly after the sale, and that Daniel continued in possession of the land because it had been purchased for him. There was much other testimony about the payment of Daniel’s debt and about Thomas procuring the legal title in parcels of the land in which Daniel had only an equitable title at the time of the sale.
+The question now is whether the complainant has made out any case which will warrant this court in causing an account to be taken between the parties and in compelling the defendant to convey the land to the complainant. There is no written evidence of any contract, neither was any paroi contract made previous to the sale. Joseph Barker and John Riley prove a verbal agreement about the time the complainant was leaving the state, after the sale.
+First. It does not appear that the defendant at the time of the sale or previous thereto made any declaration of any trust of this land.
+Second. The complainant delivered the possession of the land to Mr. Reynolds. Defendant did not receive it under any contract with the complainant.
+Third. Defendant paid the purchase money out of his own-proper money.
+Fourth. The rents were not sufficient to pay off the judgments in two years, nor in seven; otherwise the land could not have been sold by the sheriff.
+If defendant made any promise to purchase this land for complainant and to pay off the judgments by the rents, it was a-promise without any consideration, for the rents were not sufficient ~ and, moreover, Thomas was compelled to pay the purchase money long before the rents could discharge the judgments. Here-the trust fails. There could be no resulting trust, for Thomas, paid his own money. No consideration moved from Daniel to entitle him in equity to the land. The sale by the sheriff was made: by a course of law not to be avoided by complainant, and as the payment was made by defendant with his own money, the plaintiff has no right to insist that this paroi contract, denied by defendant and not made previous to the sale, and the sale not being-made on the ground of such contract, should create a trust so as: to entitle him to compel the defendant to account for the rents, and to convey the land to complainant.
+The subsequent agreement proved by Joseph Barker cannot avail, for it was not in writing.
+Bill dismissed.
