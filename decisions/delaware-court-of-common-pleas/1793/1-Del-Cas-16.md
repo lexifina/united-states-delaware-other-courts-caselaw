@@ -1,7 +1,8 @@
 ---
 court: "Delaware Court of Common Pleas"
 decided: "1793-11"
-citations: ["1 Del. Cas. 16", "Wilson’s Red Book, 10", "2 Del. Cas. 9", "Read’s Notebook, 11"]
+decided_precision: "month"
+citations: ["1 Del. Cas. 16", "Wilson’s Red Book, 10"]
 reporter: "del-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
