@@ -1,0 +1,23 @@
+---
+court: "Delaware Court of Common Pleas"
+decided: "1794-05"
+citations: ["1 Del. Cas. 668", "Miller’s Notebook, 49"]
+reporter: "del-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WALTER and WIFE v. EVANS and WIFE."]
+source_url: "https://static.case.law/del-cas/1/cases/0668-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 506817
+---
+
+# Walter v. Evans
+
+## Majority (Bassett, C. J.)
+
+Bassett, C. J.
+It must be acknowledged that there are in the books of authority various opinions on this subject, and it seems almost impossible to reconcile all the cases. As far as we can, we are to collect the principles and the good sense upon which the determinations are founded, and these may serve to guide us in the particular cases which come before us. The distinction ■between objections which go to the credit and to the competency of witnesses is clearly and most satisfactorily established at this time; and in general it seems best, when there is no direct rule of law against it, to let objections operate on the credit rather than on the competency. Witnesses may have wishes, as a father may have for his son in whose cause he is sworn; they may feel an influence on their minds, as where they stand in the same situation with the party for whom they are called to give evidence. Such circumstances are open to observations on the ■credit of the witnesses; they certainly may be sworn. A very important question in the present inquiry is whether the record in this cause, let it terminate as it may, can affect the interest of Seth Hudson. We are not able to see that it can. And the solution of that question in this manner seems, of itself, sufficient to justify the admission of the evidence. Let the witness proceed.
+Miller, for plaintiff,
+opposed the motion. The Act of Assembly, upon which the defendant places his whole reliance, will not support the doctrine he has advanced. The introductory clause, which states particularly the kinds of demands to which the Act is intended to apply, confines the regulation altogether to specialties or other securities for the payment of money or goods. The principle of the Act, so far as it respects this regulation, is stated with equal perspicuity; to wit, the permitting specialties ■etc. to be sufficient evidence of the sums of money or quantity of goods due thereon. In the present case, no such specialty or other security is produced because none exists, therefore the principle nor the inconvenience cannot apply. The plaintiff proves his demand by the testimony of third persons, which is a case by no means included in the Acts or in the contemplation of the legislature.
+After the evidence was closed on the part of the plaintiff, the Attorney General moved the Court for a nonsuit. He contended that by an Act of Assembly passed in 1766, 2 Body Laws 110, it is made necessary, in case of actions brought against an executor or administrator, before a.recovery can be had, to make probate of the demand by the oath of the plaintiff. That the words ■are full to this purpose: “If any suit be brought against an executor or administrator for the recovery of any debt due as above, and the plaintiff shall refuse so to swear or affirm, they shall be nonsuit and pay full costs of suit.” That this regulation is founded in good sense, reason and propriety. If it were not for this guard, framed for the wisest purposes by our laws, demands might frequently be set up again, which once did exist, but which were paid and settled in the decedent’s time, and the vouchers ■only now surviving in the mind of the creditor. Many guards of the same kind are necessary to protect the estates of deceased persons against the prosecution of unjust claims. It is far more requisite to strengthen than to weaken the operation of these checks. The Act of Assembly ascertains the law on the subject, and reason justifies a rigid execution of it.
+The Chief Justice observed that the motion must be overruled. The decided opinion of the Court was that the Act of Assembly did not apply where the demand or the cause of action was proved by third persons, independent of any specialty or other written security. Many cases may be supposed where the plaintiff could not with propriety or truth swear to the demand. If the original party to the contract be dead, and the suit be brought by his executor or administrator, relying solely on the testimony of third persons, with what propriety can the probate be made by one who was not privy to the contract and is entirely ignorant of the transaction?
