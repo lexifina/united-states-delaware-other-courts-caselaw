@@ -1,0 +1,25 @@
+---
+court: "Delaware Court of Chancery"
+decided: "1943-02-08"
+citations: ["27 Del. Ch. 60"]
+reporter: "del-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In The Matter Of First Account of Equitable Trust Company, Succeeding Trustee under the Will of Annie Mills, deceased, (covering the period from January 3, 1936 to December 13, 1940)."]
+source_url: "https://static.case.law/del-ch/27/cases/0060-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1873105
+cites_cases: ["101 A.L.R. 806", "117 N.J.Eq. 171", "119 N.J.Eq. 376", "141 Pa. 479", "175 A. 164", "182 A. 875", "2 N.Y.S. 665", "21 A. 671", "30 A. 2d 269", "83 N.J.Eq. 618", "92 A. 51"]
+---
+
+# In re First Account of Equitable Trust Co.
+
+## Majority (Pearson, Vice-Chancellor:)
+
+Pearson, Vice-Chancellor:
+The trustee prays that it be allowed its expenses and the amount of the fee of its solicitor for services rendered in the proceeding on the exceptions to its First Account; that the application of the exceptant for an allowance of the fee of his solicitor be denied; that the costs and expenses, at least those of the exceptant, be charged against him personally or against his ultimate share in the corpus of the trust. The exceptant insists upon an allowance of the fee of his solicitor, and asks that all costs and expenses be taxed against the.entire trust corpus. The various points will be discussed separately.
+Trustee’s Expenses and Solicitors’ Fee. No objection has been made to the allowance of these items. The amounts seem fair. The trustee has successfully defended its account against the exceptions, and has demonstrated that it was not at fault. Accordingly, the items should be allowed. 2 Scott on Trusts, § 188.4; 65 C.J. 946, 947; Annotation, 101 A.L.R. 806.
+Fee of Solicitor for Exceptant. The exceptant contends that although his exceptions to the account were overruled and he was thus unsuccessful in surcharging the trustee, nevertheless, he should be allowed the amount of his solicitor’s fee because the proceeding would have benefited the trust estate, and not the exceptant alone, if he had been successful. He relies principally upon the case of Commercial Trust Co. of New Jersey, et al., v. Mason, et al., 119 N.J.Eq. 376, 182 A. 875. In this case, the Court of Errors and Appeals of New Jersey affirmed a decree of the Court of Chancery entered in accordance with the opinion reported as Commercial Trust Co. of New Jersey, et al., v. Spiegelberg, et al., 117 N.J.Eq. 171, 175 A. 164. It appears from the latter opinion that the case was essentially a proceeding by trustees for instructions and directions, and hence, of a different character from the present case. The general and well recognized rule, subject to but few exceptions, is that a litigant must himself defray the costs of representation by counsel. I have found no Delaware case supporting an exception to this general rule in circumstances of the kind present here. It appears that the practice has been not to allow solicitors’ fees to unsuccessful contestants in such cases, and this is in harmony with authorities in other jurisdictions. In re Dreier’s Estate, 83 N.J.Eq. 618, 92 A. 51; In re Kennedy’s Estate, 141 Pa. 479, 21 A. 671; 65 C.J. 947. The exceptant’s application for an allowance of his solicitor’s fee should be denied.
+Awarding of Court Costs. As a general rule, costs are taxed against the unsuccessful party to a Chancery proceeding, unless the facts of the particular case are such as to make this clearly inequitable. Kennedy v. Emerald Coal & Coke Co., ante p. 55, 30 A. 2d 269, opinion filed February 8, 1943. Where exceptions to an account are filed in good faith, upon reasonable grounds, and where the circumstances are such as might be expected normally to induce a reasonable man, in the exceptant’s position, to file exceptions, costs may be taxed otherwise. In re Willett’s Estate, 6 Dem.Sur. 435, 2 N.Y.S. 665; 65 C.J. 948. Compare: Kennedy v. Emerald Coal & Coke Co., supra. Here, many facts including what appeared to be representations attributable to the trustee itself, pointed to negligence on the trustee’s part with respect to the matter to which exceptions were taken. See: In re Mills’ Will, supra. Apparently, some circumstances justifying the trustee’s action did not come to light until the hearing. In my view, this case is one which calls for the exercise of the court’s discretion to relieve the unsuccessful exceptant of costs.
+Fund to be Charged With Costs and Expenses Allowed. The allocation of costs and expenses of an accounting is within the discretion of the auditing court, but ordinarily these must be borne by corpus. 4 Bogert on Trusts and Trustees, §§ 805, 971; 65 C.J., p. 947. Here the questions raised concerned the corpus, and there is no ground for charging income with any of the amounts. None of the parties contend otherwise. Therefore, the court costs and expenses allowed the trustee should be paid from the corpus.
+An order accordingly will be advised.
