@@ -1,0 +1,29 @@
+---
+court: "Delaware Court of Chancery"
+decided: "1929-07-31"
+citations: ["17 Del. Ch. 29"]
+reporter: "del-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Blanche Sadowski, John Lenkiewicz, Leona Buell and Frank Lenkiewicz, by his next friend, Blanche Sadowski, vs. Victoria Rykaczewski, Louis De Prisco and Rosalie De Prisco."]
+source_url: "https://static.case.law/del-ch/17/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 475339
+cites_cases: ["137 A. 74", "15 Del. Ch. 302", "3 Del. Ch. 348", "5 Del. Ch. 11"]
+---
+
+# Sadowski v. Rykaczewski
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+The complainants seek to establish a trust upon lands held by the defendants. The trust, if it exists, is one lying in parol.
+It is conceded that the purchase of property by a husband’s funds raises no presumption of a trust in his favor when the title is taken in the name of himself and his wife, but that on the contrary the presumption is that the husband intended in the event of his death that the property should be his wife’s. If, therefore, there is any trust impressed upon this property, it must exist solely by reason of an express parol agreement entered into by the wife cotemporaneously with and as an inducement to the conferring of title on her.
+In Rentoul v. Sweeney, 15 Del. Ch. 302, 137 A. 74, I took occasion briefly to examine the Delaware cases bearing on the subject of parol trusts. In the opinion filed in that case it was stated that trusts by parol may be created in this state. But the cases also show that where such a trust is sought to be established, the evidence in support of it, in order to be convincing, must be so clear, full and satisfactory as to leave no doubt not only of the existence of the alleged trust but also of its exact terms. The reasons for this rule are apparent when it is remembered that what the asserter of such a trust seeks to do is to overcome the strong presumption in favor of the grantee’s absolute right which a solemn instrument of conveyance purports to transmit. The law countenances methods which parties may employ for the purpose of expressly setting forth trust arrangements with respect to property so that all the world may have written notice thereof. When parties are said not to have chosen to resort to these methods of open and notorious publication of their purposes, but to have resorted to secret and undisclosed agreements which are contrary to what the open disclosures of their formal act indicate, it is a wise and salutary policy of the law which demands strong proof that that which appears to be true is not in fact true. Unless it be so, contentious litigation will be encouraged and the security of titles disturbed.
+With these thoughts in mind, I listened intently to the witnesses on the stand and have since carefully reviewed the stenographic transcript of their testimony, with the view of seeing if I could after due reflection persuade myself that the alleged parol trust was in fact created as alleged, and that no doubt of it could be entertained; for, as indicated by Chancellor Bates in Hall v. Livingston, 3 Del. Ch. 348, to doubt is to deny.
+It is not worth while to review the testimony in its details. If Victoria, the wife, ever accepted the obligation of a trust, she repudiated it within four years after its acceptance, for she then had it conveyed to herself and her new husband. Her conduct since then has been one of consistent repudiation. She advertised it for sale, entered into a contract to sell it, executed wills disposing of it contrary to the alleged trust in case of her death, deeded it to her daughter and son-in-law, the De Priscos, instituted a Chancery suit against them in connection with it and settled the suit by an amicable arrangement whereby the property was disposed of between them on the theory that it was hers absolutely to do with as she pleased.
+Some at least of the children, who now testify to the existence of the trust and that they knew of it, were aware of all or a part of her acts and never took measures to enforce their rights, until some family difficulties arose between the mother and the De Priscos. She herself took the stand and swore that her title was impressed with a trust. Yet her every act refutes her testimony. The complainants’ case is punctuated with too many question marks to permit me to entertain no doubt concerning the primary fact on which it rests.
+It is significant that the various statements which witnesses testify to as having been made by Andrew and his wife in speaking of the alleged trust are by no means harmonious. I will not recite them. It doubtless was the fact that the father and mother of the children spoke frequently in their presence and in the presence of others in reference to the property which was the family home, and made remarks to the effect that the home was to be for the children when the parents were gone. That sort of talk is but characteristic of parents especially in certain walks of life. I suspect that talk of that kind is what was indulged in by these parents. Some such expressions have been magnified into the idea of a trust. As to the mother’s testimony to the effect that she agreed to a trust at the time the deed was taken, I am compelled to say that I do not place credence in her statements.
+At the best this alleged trust seems to me to be founded on loose statements of the grantees, such statements as the Chancellor in Pierson v. Pierson, 5 Del. Ch. 11, regarded as not sufficient to oust the grantee of the absolute estate which the deed purported to convey.
+In view of the fact that I am not persuaded of the existence of the trust as alleged, it is not necessary to consider the defenses of laches, etc., which the answer sets up.
+The bill will be dismissed with costs on the complainants.
