@@ -1,0 +1,40 @@
+---
+court: "Delaware Court of Chancery"
+decided: "1943-02-12"
+citations: ["27 Del. Ch. 64"]
+reporter: "del-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bethel M. E. Church, a Religious Corporation of the State of Delaware, vs. Dagsboro Council No. 30 Junior Order United American Mechanics, a Corporation of the State of Delaware, and State Council of Delaware Junior Order United American Mechanics, an Unincorporated Association of persons using a common name."]
+source_url: "https://static.case.law/del-ch/27/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1873133
+cites_cases: ["111 Am.St.Rep. 623", "2 L.R.A., (N.S.,) 993", "36 Conn. 93", "37 Cal. 543", "38 N.J. Eq. 158", "62 A. 219", "72 N.Y. 286", "73 N. H. 368", "99 Am.Dec. 300"]
+---
+
+# Bethel M. E. Church v. Dagsboro Council No. 30 Junior Order United American Mechanics
+
+## Majority (Harrington, Chancellor:)
+
+Harrington, Chancellor:
+This case is before the court on a general demurrer of Bethel M. E. Church, the original complainant, to an amended cross-bill filed by Dagsboro Council Junior Order United American Mechanics.
+The cross-bill alleges, in substance:
+(1) That early in May of 1939, a regular meeting of the members of the Dagsboro Council was held for the purpose of discussing and voting upon a proposed conveyance of its Meeting Hall, and the land upon which it was erected, to the Ladies Aid Society, of Dagsboro.
+(2) That a resolution was duly passed at that meeting, authorizing a conveyance of that property to the Ladies Aid Society, for the consideration of $1,000.
+(3) That a deed, in which that society was named as grantee, was subsequently prepared, and was executed and acknowledged by William H. Baker, Councilor (President) of Dagsboro Council, and the corporate seal of that council was affixed thereto by Rufus I. Adkins, as Secretary; that' deed was subsequently delivered.
+(4) That on May 13th, 1939, one John H. Long represented to Baker and to Adkins that a new deed had been prepared for the same property, correcting a slight error in the original instrument, and requested them to execute it.
+(5) That William H. Baker, knowing that John H. Long was an officer of the Dagsboro Council, and relying upon his representations, executed and acknowledged that instrument in his official capacity without having read it, Adkins, as secretary also attested it and affixed the corporate seal of the Council thereto.
+(6) . That unknown to Baker and Adkins, the grantee named in the latter instrument was the Bethel M. E. Church, of Dagsboro, the complainant, and not the Ladies Aid Society.
+(7) That this fact, and the false and fraudulent representations of Long relating thereto, were not discovered by the cross-complainant until the deed of May 13th, 1939, had been recorded.
+(8) That during the month of May, 1939, and for some time theretofore and thereafter, the said John H. Long occupied the office of financial secretary of the Dagsboro Council, and at the same time was a trustee of the Bethel M. E. Church.
+(9) That both Long and Adkins attended the meeting of the Dagsboro Council, at which the resolution was discussed and passed, authorizing the execution and delivery of the deed to the Ladies Aid Society.
+(10) That the said John H. Long, William H. Baker and Rufus I. Adkins knew that no other and subsequent resolutian had been passed by the members of the Dagsboro Council authorizing the execution and delivery of the deed of May . 13th, 1939, to the Bethel M. E. Church.
+(11) That Article XIV of Section 1 of the Constitution, By-Laws and Rules of Order of the Dagsboro Council, in part, provides as follows: “They (the trustees) shall receive from the Treasurer a bond with sufficient surety for the faithful performance of his duty, take charge and hold all property of the council not otherwise provided for.”
+(12) That Article II, Section 1 of the Constitution of the Dagsboro Council provides for the election of three trustees to serve for such length of time as the by-laws may provide.
+(13) That on May 13th, 1939, neither William H. Baker nor Rufus I. Adkins was a trustee of the Dagsboro Council.
+At this stage of the case, all of these facts are necessarily admitted by the demurrer. Other facts are alleged, but it seems unnecessary to consider them.
+The cross bill prays that the deed of May 13th, 1939, to Bethel M. E. Church be declared null and void. Whether it makes out a case for affirmative relief against the original complainant is the question.
+In the absence of some notice to the contrary, a deed which appears to be regularly executed and to which the corporate seal is affixed, is ordinarily presumed to be a valid and binding corporate conveyance. Miner’s Ditch Co. v. Zellerbach, 37 Cal. 543, 99 Am.Dec. 300, 314-16; Thompson on Corp. §§ 2038, 2040. Under such circumstances, the burden of showing lack of authority to execute that instrument is on the person attacking it. Id. That principle is applicable here.
+The cross-bill does not expressly allege that Long was the duly constituted agent of the church in procuring the deed of May 13th, 1939; but it is not denied that agency sufficiently appears from the facts. The case was argued on that theory. The church claims title under the deed in controversy, and to that extent, at least, apparently ratified Long’s acts. Its actual knowledge of his misrepresentations in procuring the deed is not alleged; but the question is whether knowledge is necessarily implied from the facts and. the relation of the parties. That is the real controversy. While Long was an officer of both the church and the Dagsboro Council, the latter corporation does not contend that his personal knowledge of the restricted nature of the terms of the resolution, passed by its members, was acquired in the performance of any duties, as agent for the church, or can be imputed to the church. See In re Hampshire Land Co., [1896] 2 Ch. 743; Brookhouse v. Union Publishing Co., 73 N. H. 368, 62 A. 219, 2 L.R.A., (N.S.,) 993, 6 Ann.Cas. 675, 111 Am.St.Rep. 623; De Kay v. Hackensack Water Co., 38 N.J. Eq. 158; 2 Pomeroy’s Eq. Jur. (5th Ed.) §§ 666, 667a, 668; 13 Amer. Jur., 1041. But the Dagsboro Council correctly points out that under the admitted facts it would be unfair and inequitable to permit the church to retain the property conveyed, and at the same time repudiate any knowledge of Long’s fraudulent acts in procuring it. Holden v. New York & Erie Bank, 72 N.Y. 286; First Nat. Bank v. Town of New Milford, 36 Conn. 93; 2 Pomeroy’s Eq.Jur., (5th Ed.) § 675a; 2 L.R.A., (N.S.,) 993, note. This is merely the application . of the familiar principle that a person cannot ratify acts and retain benefits, and at the same time disaffirm the fraud, which is a constituent part of it. See Brookhouse v. Union Pub. Co., supra. In view of this conclusion, it seems unnecessary to consider the contention of the cross-complainant that knowledge of Long’s fraudulent acts must be imputed to the church because he was its sole agent in procuring the deed. See 2 Pomeroy’s Eq.Jur., (5th Ed.) §675a; 2 L.R.A., (N.S.,) 993, note. In any aspect of the case, the allegations with respect to the by-laws of the Dagsboro Council are unimportant. Even though Long knew of them, they do not show that the trustees, and not the Councilor (president), were the only persons authorized to execute any deed made.
+The church, the original complainant and the defendant in the cross-bill, intimates that the Dagsboro Council could seek no affirmative relief in this proceeding if a valid deed were made to the Ladies Aid Society prior to May 13th, 1939; but as that is a mere suggestion, and no cases are cited, it seems unnecessary to consider it. The amended cross-bill states a cause of action against the defendant in that proceeding, because of Long’s misrepresentations, and the demurrer thereto is overruled.
+An order will be entered accordingly.
