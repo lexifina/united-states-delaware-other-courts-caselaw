@@ -1,7 +1,8 @@
 ---
 court: "Delaware Court of Common Pleas"
 decided: "1795-12"
-citations: ["2 Del. Cas. 47", "Rodney’s Notes", "1 Del. Cas. 361", "Bayard’s Notebook, 87"]
+decided_precision: "month"
+citations: ["2 Del. Cas. 47", "Rodney’s Notes"]
 reporter: "del-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
