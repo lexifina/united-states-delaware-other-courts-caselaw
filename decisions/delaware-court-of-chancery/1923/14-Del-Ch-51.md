@@ -1,0 +1,43 @@
+---
+court: "Delaware Court of Chancery"
+decided: "1923-05-11"
+citations: ["14 Del. Ch. 51"]
+reporter: "del-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank R. Jones, vs. United Tire & Rubber Corporation, a corporation of the State of Delaware."]
+source_url: "https://static.case.law/del-ch/14/cases/0051-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 477594
+cites_cases: ["116 Am. St. Rep. 225", "170 Fed. 338", "192 Mass. 94", "6 L. R. A. (N. S.) 487", "62 Fed. 958", "78 N. E. 402"]
+---
+
+# Jones v. United Tire & Rubber Corp.
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+The question to be determined is whether the petitioner’s claim shall be paid in full, or whether it shall share in the distribution pari passu, with the claims of the general creditors.
+The facts are set forth in an amended stipulation signed by the parties through their solicitors of record. The stipulation is as follows:
+“From time to time the Trent Rubber Company sent to the United Tire & Rubber. Corporation tires to sell on consignment, the terms of said consignment being set out in a letter from Trent Rubber Company to United Tire & Rubber Corporation, bearing date September 22, 1920, in the following words, figures and phrases:
+‘' ‘We are releasing the tires covered by the bills of lading mentioned on a consignment basis, and we authorize you to hold or sell these tires for cash for our account, remitting to us the amounts received from the sale of any of these tires on the basis of the prices originally quoted the United Tire & Rubber Company.
+“ ‘We understand you will send us at least $500.00 per week on account of the tires branded “United” until these tires are all paid for, whether or not you have sold them.
+“ ‘We further understand you will furnish us each week with an inventory of the tires remaining on hand belonging to us, and which are not paid for, and that we will have the privilege at any time of taking a physical inventory of the stock of our tires held by you in any of your stores.’
+“After the Receiver of the United Tire & Rubber Corporation had been appointed, John O. Bigelow, Receiver of the Trent Rubber Company, applied to the Chancellor of Delaware, and obtained an order to take back from the stock of tires in the hands of the Receiver of the United Tire & Rubber Corporation all tires delivered by the said Trent Rubber Company to the said United Tire & Rubber Corporation, and then in the possession of its Receiver, which tires were delivered on consignment by said Trent Rubber Company to the said United Tire & Rubber Corporation, the title and right of possession of which remained and was wholly in the said Trent Rubber Company, and was claimed by the said John O. Bigelow, Receiver, and the Trent Rubber Company did take back said tires, and has given credit therefor, to the extent of one thousand one hundred and eighty-seven and 40/100 dollars ($1,187,40). The amount of the balance unpaid to the Trent Rubber Company for the consignment of tires sold by the United Tire & Rubber Corporation is three thousand two hundred and five and 26/100 dollars ($3,205.26).
+“Subsequent thereto the Receiver of the United Tire & Rubber Corporation held sales of tires and effects of the United Tire & Rubber Corporation, and it is agreed by the parties to this stipulation that in the said tires and effects sold by the Receiver at such sales the Trent Rubber Company had no title.
+“The question to be decided by the Chancellor is whether the Receiver of Trent Rubber Company is entitled to have its claim preferred, or whether it is entitled to share merely pro rata with the general claimants.”
+The argument has proceeded on the theory that the contract between the parties constituted a sale on consignment, and that title to the tires, or proceeds from the sale thereof, remained in the consignor. I shall dispose of the petition on the assumption that this theory is correct.
+The petitioner states the contention upon which he relies as follows:
+“Where a transaction establishes a fiduciary relation between the parties, and not the relation of debtor and creditor only, a trust is created, a violation .of which constitutes a fraud by which a trustee or his receiver cannot profit and entitling the cestui que trust to prior payment out of the funds in the hands of the receiver.”
+This contention rests upon the proposition that if trust pro-, perty, or its proceeds, can be traced and identified, it shall be held to be impressed with the equitable right of the true owner to have it regarded as his, whether it be in its original or in a converted condition, subject, of course, to the intervening equities of others. An examination of the cases cited by the petitioner discloses that in all of them the facts are such as to make them inapplicable here, because in each the property, or its proceeds, can be identified and marked. I shall not lengthen this opinion by a review of these cases. The difficulty in the pending cases is, that it is impossible to trace the proceeds of the sale of the tires.
+Among the cases cited by the petitioner, the one that approaches nearest to the instant one is Massey, et al., v. Fisher, (C. C.) 62 Fed. 958. But that case is clearly distinguishable. It involved the situation of one who paid $1225 in bank bills to a bank for the purpose of having the bank take up a note which the bank had delivered to a clearing house committee to secure certain advances made by it to the bank. The money was placed in the bank’s vault with other funds and shortly thereafter the bank failed without ever having applied the money to the note as directed. The receiver of the bank found among the assets of the bank cash in its vault in an amount more than enough to cover the $1225 intrusted to the bank by the plaintiff. The court said:
+“It is not important that the plaintiffs’ money has no earmark, and cannot be identified. It is sufficient to trace it into the bank’s vaults, and find that a sum equal to it (and presumably representing it), continuously remained there until the receiver took it. The modem rules of equity require no more.”
+This case might properly fall in that class of cases where the principle of identifying trust funds has been held, contrary to the early conception that money cannot be identified because it has no ear mark, to be satisfied by tracing it into a particular fund.
+But such is not the case here. The stipulation of facts does not disclose what disposition was made of the money received from the sale of tires. Whether, and if so where, the proceeds were deposited in bank is not disclosed. While the stipulation is silent on the question, the report filed by the receiver in the regular course of his administration shows that the company carried a deposit account with a bank. But the amount to the credit of the insolvent when the receiver took charge was only $197.30, a sum very far less than enough to cover the petitioner’s claim. Whether any of the cash from sales of the petitioner’s tires went into this account is not disclosed.
+On this state of facts, the case appears to be one where the claimant seeks to- have funds which equitably belonged to it and which have been dissipated, charged as a lien on the entire estate of the debtor, thereby reducing the dividends which creditors generally will receive in distribution. While some cases have held that, “if one’s general estate has been enriched by the proceeds of trust property, the trust may be established against the general assets even though the estate is insolvent,” yet the weight of authority is to the contrary. Lowe v. Jones, 192 Mass. 94, 78 N. E. 402, 6 L. R. A. (N. S.) 487, 116 Am. St. Rep. 225, 7 Ann. Cas. 551. In this case it was said:
+“But by the great weight of authority, a trust cannot be established against the proceeds of trust property which has been disposed of, unless the proceeds can be identified and traced into some specific fund or property.”
+To the same effect is Lucas County v. Jamison, (C. C.) 170 Fed. 338, where it is said:
+“If the funds have been dissipated, so that it cannot be traced, then there can be no preference ordered.”
+Such appears to me to be the case presented here. So far as the facts before the court show, the proceeds have been dissipated. The petitioner has failed to trace the proceeds into any specific fund or property. This being so, there is no occasion to consider the matter further. "
+The claim will be disallowed as preferred. It will, however, be allowed as a general one against the insolvent estate.
+Let an order be entered accordingly.
