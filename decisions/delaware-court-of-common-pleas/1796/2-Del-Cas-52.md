@@ -1,0 +1,30 @@
+---
+court: "Delaware Court of Common Pleas"
+decided: "1796-05"
+citations: ["2 Del. Cas. 52", "Rodney’s Notes"]
+reporter: "del-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NATHANIEL PHILLIPS and JULIAN, his Wife, v. ARTHUR FRENCH and REBECCA, his Wife."]
+source_url: "https://static.case.law/del-cas/2/cases/0052-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 503486
+---
+
+# Phillips v. French
+
+## Majority
+
+The following words charged, to wit; on September 22, 1794, “Go and play the whore again.” November 20, 1794, “Do not mind her, she is drunk, the drunken bitch.”
+Mary Clarks. Deposition read. Says on June 23, 1794 lived with Julian Phillips. Rebecca French called Julian Phillips a drunken whore. Witness always thought a chaste and sober woman.
+Sarah Stidham. Mrs. [French] said of Mrs. Phillips she was a public whore and a private whore, I heard her say to Mrs. Phillips go and play the whore. I lived in the neighborhood. She called her ugly names and told her to go and play the whore again. She called her a drunkard too. Mrs. Phillips husband is out at sea now. They lived together before he went to sea. Attempts several times to make me swear something against Mrs. Phillips, that she Mrs. Phillips had played the whore. Mrs. French offered me a new gown if I would swear it. Mrs. French said she would put me in jail if I did not. I have lived six or seven mile out of town better than a year. Conversation happened with Mrs. about the gown and threatened me before I went out of town. Mr. Mendenhall went to Mrs. Phillips a little after sundown. He stayed there about an hour. I have seen Mendenhall there several times. He asked for Mr. Field. Have seen M. in the porch when Field was not at home. Mrs. F. very angry when she spoke to Mrs. Phillips. I have seen Doctor Bush there.
+Jemima Ford. I know Sarah Stidham, she has lived with me about sixteen months, she is a tolerable good girl, she told me this story shortly after she came to me. Knew Mrs. Phillips, had a good opinion of Mrs. Phillips. Girl told me about their threatening her to swear against Phillips. They sent for Doctor Bush, and made her tell him about it, complained it was the greatest sin she had been ever guilty of. Phillips and wife parted some little time. Phillips said, before he went away, that unless she prosecuted them and cleared the matter up, he should never lived with her, as he had done. Don’t know her having told me any stories, since what I have mentioned before.
+Susannah Trian. I heard them talking and scolding. Mrs. French called Mrs. Phillips a whore, and other language too bad to mention. I was in my own house when I heard this, Mrs. Phillips and Mrs. F. live next neighbors. I have been acquainted her, and have seen her before she was married. They had been parted before he went to sea, but had come together again, I supposed her husband supports her. I never heard Mrs. F. call Mrs. P. a drunkard. Sarah Stidham lived in Wilmington close by, at the time of the conversation. I never saw him go there in an unseasonable time that I know of; I have seen him go there several times, when Phillips was, as well as when he was not, at home. Mrs. Phillips told me she said her little daughter had gone to bed, and that Mr. Mendenhall had come to smoke a pipe with Mr. Phillips.
+Vandyke. We shall prove that she is guilty and that she owned it.
+Ann Oliver’s deposition said she saw Captain M. go into Mr. Phillips’ house about eight o’oclock in the evening. Doors shut, no light in the house. He stayed about three-fourths of an hour.
+Catherine McGhee. I lived with Mrs. Phillips six months. Captain M. came in, I and a child went out. Went out of my own account. Do not know that anybody was there when I went out. Never saw any improper conduct between them. Do not know how long M. was there before Phillips came in. Mrs. F. only wanted me to swear what I knew.
+Doctor Bash. Captain M. came to me to settle a dispute which was supposed to have happened in the neighborhood. [I] attended to the business about a slander, his reason of calling upon me. I had rallied him on the occasion. He copied off a paper which Shalcross had drawn off. Said Mrs. F. would not sign it. He proposed we went over. Mrs. F. refused to sign it and called it a libel. With that he drew up another, softer. It was more than a week before I could get her [to] sign the paper. I was called as a witness in Mr. Phillips’ house. Mrs. F. observed that it was through me she signed it. Said Phillips, “It is not because you are innocent I sign this paper, but it is to make peace, but you are guilty.” Mrs. Phillips said in reply, “It is no more than you would have done in similar circumstances with having as good an opportunity and with as clever a fellow.” We all pledged ourselves that this paper should never appear to the disadvantage of Mrs. F. or Mr. F. I have been acquainted with Mrs. Phillips; never knew any harm of her, I visited her, did not think it disreputable. The conversation was [sportive], a good deal of earnestness, half earnest, half fun. I wished then to sign it to make peace. He is employed in the Revenue Cutter, — a small compensation, large family. Not acquainted with the character of Mrs. F. M. was present when charge was made against Mrs. Phillips. He is a married man, an amiable [husband] to his wife, [has] a number of young children — so has Mrs. Phillips, Paper now shown proved by witness.
+Paper signed “Rebecca French” read.
+Vandyke. 3 Bl.Comm. 135, respecting justification; if true, no injury. It is in evidence M.. frequently visited Phillips’ house. Ann Oliver’s deposition read. Catherine McGhee, witness, saw M. twice; that seeing Phillips coming home [she] went in and told it, upon which M. went out.
+Bayard. You are now determining an issue respecting the peace of two families. If words true, a justification.
+Verdict for plaintiff. Six cents damages.
