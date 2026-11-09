@@ -212,12 +212,12 @@ reference	path
 1 Del. 452	decisions/delaware-superior-court/1834/1-Del-452.md
 1 Del. 453	decisions/delaware-superior-court/1834/1-Del-453.md
 1 Del. 454	decisions/delaware-superior-court/1834/1-Del-454.md
-1 Del. 464	decisions/delaware-superior-court/1834/1-Del-343.md
+1 Del. 464	decisions/delaware-superior-court/1834/1-Del-464.md
 1 Del. 466	decisions/delaware-superior-court/1834/1-Del-466--cap-1868061.md
 1 Del. 466	decisions/delaware-superior-court/1834/1-Del-466.md
 1 Del. 474	decisions/delaware-superior-court/1835/1-Del-474.md
 1 Del. 475	decisions/delaware-superior-court/1835/1-Del-475.md
-1 Del. 476	decisions/delaware-superior-court/1835/1-Del-477.md
+1 Del. 476	decisions/delaware-superior-court/1835/1-Del-476.md
 1 Del. 477	decisions/delaware-superior-court/1835/1-Del-477.md
 1 Del. 494	decisions/delaware-superior-court/1835/1-Del-494.md
 1 Del. 495	decisions/delaware-superior-court/1835/1-Del-495.md
@@ -236,7 +236,7 @@ reference	path
 1 Del. 520	decisions/delaware-superior-court/1835/1-Del-520.md
 1 Del. 522	decisions/delaware-superior-court/1835/1-Del-522.md
 1 Del. 523	decisions/delaware-superior-court/1835/1-Del-523.md
-1 Del. 524	decisions/delaware-superior-court/1835/1-Del-477.md
+1 Del. 524	decisions/delaware-superior-court/1835/1-Del-524.md
 1 Del. 529	decisions/delaware-superior-court/1835/1-Del-529.md
 1 Del. 530	decisions/delaware-superior-court/1835/1-Del-530--cap-1867999.md
 1 Del. 530	decisions/delaware-superior-court/1835/1-Del-530.md
@@ -346,7 +346,7 @@ reference	path
 1 Del. Cas. 36	decisions/delaware-court-of-common-pleas/1794/1-Del-Cas-36.md
 1 Del. Cas. 360	decisions/delaware-court-of-quarter-sessions/1794/1-Del-Cas-360.md
 1 Del. Cas. 361	decisions/delaware-court-of-common-pleas/1794/1-Del-Cas-361.md
-1 Del. Cas. 361	decisions/delaware-court-of-common-pleas/1795/2-Del-Cas-47.md
+1 Del. Cas. 361	decisions/delaware-court-of-common-pleas/1795/1-Del-Cas-361.md
 1 Del. Cas. 367	decisions/delaware-court-of-common-pleas/1795/1-Del-Cas-367.md
 1 Del. Cas. 37	decisions/delaware-court-of-common-pleas/1794/1-Del-Cas-37.md
 1 Del. Cas. 384	decisions/delaware-circuit-court/1795/1-Del-Cas-384.md
@@ -501,6 +501,69 @@ reference	path
 1 Del. Cas. LXII	decisions/delaware-orphans-court/1771/1-Del-Cas-LXII.md
 1 Del. Cas. LXIV	decisions/delaware-court-of-common-pleas/1770/1-Del-Cas-LXIV.md
 1 Del. Cas. LXV	decisions/delaware-court-of-common-pleas/1787/1-Del-Cas-LXV.md
+1 Del. Ch. 1	decisions/delaware-court-of-chancery/1814/1-Del-Ch-1.md
+1 Del. Ch. 11	decisions/delaware-court-of-chancery/1815/1-Del-Ch-11.md
+1 Del. Ch. 113	decisions/delaware-court-of-chancery/1820/1-Del-Ch-113.md
+1 Del. Ch. 114	decisions/delaware-court-of-chancery/1820/1-Del-Ch-114.md
+1 Del. Ch. 116	decisions/delaware-court-of-chancery/1820/1-Del-Ch-116.md
+1 Del. Ch. 120	decisions/delaware-court-of-chancery/1820/1-Del-Ch-120.md
+1 Del. Ch. 122	decisions/delaware-court-of-chancery/1820/1-Del-Ch-122.md
+1 Del. Ch. 124	decisions/delaware-court-of-chancery/1820/1-Del-Ch-124.md
+1 Del. Ch. 128	decisions/delaware-court-of-chancery/1820/1-Del-Ch-128.md
+1 Del. Ch. 13	decisions/delaware-court-of-chancery/1816/1-Del-Ch-13.md
+1 Del. Ch. 130	decisions/delaware-court-of-chancery/1821/1-Del-Ch-130.md
+1 Del. Ch. 133	decisions/delaware-court-of-chancery/1821/1-Del-Ch-133.md
+1 Del. Ch. 146	decisions/delaware-court-of-chancery/1821/1-Del-Ch-146.md
+1 Del. Ch. 149	decisions/delaware-court-of-chancery/1821/1-Del-Ch-149.md
+1 Del. Ch. 156	decisions/delaware-court-of-chancery/1821/1-Del-Ch-156.md
+1 Del. Ch. 167	decisions/delaware-court-of-chancery/1821/1-Del-Ch-167.md
+1 Del. Ch. 177	decisions/delaware-court-of-chancery/1821/1-Del-Ch-177.md
+1 Del. Ch. 184	decisions/delaware-court-of-chancery/1822/1-Del-Ch-184.md
+1 Del. Ch. 187	decisions/delaware-court-of-chancery/1822/1-Del-Ch-187.md
+1 Del. Ch. 226	decisions/delaware-court-of-chancery/1822/1-Del-Ch-226.md
+1 Del. Ch. 23	decisions/delaware-court-of-chancery/1817/1-Del-Ch-23.md
+1 Del. Ch. 230	decisions/delaware-court-of-chancery/1822/1-Del-Ch-230.md
+1 Del. Ch. 233	decisions/delaware-court-of-chancery/1822/1-Del-Ch-233.md
+1 Del. Ch. 241	decisions/delaware-court-of-chancery/1823/1-Del-Ch-241.md
+1 Del. Ch. 244	decisions/delaware-court-of-chancery/1823/1-Del-Ch-244.md
+1 Del. Ch. 25	decisions/delaware-court-of-chancery/1817/1-Del-Ch-25.md
+1 Del. Ch. 253	decisions/delaware-court-of-chancery/1823/1-Del-Ch-253.md
+1 Del. Ch. 256	decisions/delaware-court-of-chancery/1823/1-Del-Ch-256.md
+1 Del. Ch. 261	decisions/delaware-court-of-chancery/1824/1-Del-Ch-261.md
+1 Del. Ch. 271	decisions/delaware-court-of-chancery/1823/1-Del-Ch-271.md
+1 Del. Ch. 274	decisions/delaware-court-of-chancery/1824/1-Del-Ch-274.md
+1 Del. Ch. 284	decisions/delaware-court-of-chancery/1825/1-Del-Ch-284.md
+1 Del. Ch. 295	decisions/delaware-court-of-chancery/1825/1-Del-Ch-295.md
+1 Del. Ch. 298	decisions/delaware-court-of-chancery/1825/1-Del-Ch-298.md
+1 Del. Ch. 310	decisions/delaware-court-of-chancery/1825/1-Del-Ch-310.md
+1 Del. Ch. 32	decisions/delaware-court-of-chancery/1818/1-Del-Ch-32.md
+1 Del. Ch. 320	decisions/delaware-court-of-chancery/1827/1-Del-Ch-320.md
+1 Del. Ch. 331	decisions/delaware-court-of-chancery/1827/1-Del-Ch-331.md
+1 Del. Ch. 342	decisions/delaware-court-of-chancery/1830/1-Del-Ch-342.md
+1 Del. Ch. 345	decisions/delaware-court-of-chancery/1830/1-Del-Ch-345.md
+1 Del. Ch. 349	decisions/delaware-court-of-chancery/1830/1-Del-Ch-349.md
+1 Del. Ch. 35	decisions/delaware-court-of-chancery/1818/1-Del-Ch-35.md
+1 Del. Ch. 353	decisions/delaware-court-of-chancery/1830/1-Del-Ch-353.md
+1 Del. Ch. 359	decisions/delaware-court-of-chancery/1830/1-Del-Ch-359.md
+1 Del. Ch. 368	decisions/delaware-court-of-chancery/1831/1-Del-Ch-368.md
+1 Del. Ch. 388	decisions/delaware-court-of-chancery/1831/1-Del-Ch-388.md
+1 Del. Ch. 399	decisions/delaware-court-of-chancery/1831/1-Del-Ch-399.md
+1 Del. Ch. 406	decisions/delaware-court-of-chancery/1833/1-Del-Ch-406.md
+1 Del. Ch. 409	decisions/delaware-court-of-chancery/1833/1-Del-Ch-409.md
+1 Del. Ch. 416	decisions/delaware-court-of-chancery/1833/1-Del-Ch-416.md
+1 Del. Ch. 435	decisions/delaware-court-of-chancery/1833/1-Del-Ch-435.md
+1 Del. Ch. 457	decisions/delaware-orphans-court/1822/1-Del-Ch-457.md
+1 Del. Ch. 49	decisions/delaware-court-of-chancery/1818/1-Del-Ch-49.md
+1 Del. Ch. 57	decisions/delaware-court-of-chancery/1818/1-Del-Ch-57.md
+1 Del. Ch. 64	decisions/delaware-court-of-chancery/1819/1-Del-Ch-64.md
+1 Del. Ch. 68	decisions/delaware-court-of-chancery/1819/1-Del-Ch-68.md
+1 Del. Ch. 70	decisions/delaware-court-of-chancery/1819/1-Del-Ch-70.md
+1 Del. Ch. 72	decisions/delaware-court-of-chancery/1819/1-Del-Ch-72.md
+1 Del. Ch. 74	decisions/delaware-court-of-chancery/1819/1-Del-Ch-74.md
+1 Del. Ch. 77	decisions/delaware-court-of-chancery/1819/1-Del-Ch-77.md
+1 Del. Ch. 82	decisions/delaware-court-of-chancery/1819/1-Del-Ch-82.md
+1 Del. Ch. 88	decisions/delaware-court-of-chancery/1819/1-Del-Ch-88.md
+1 Del. Ch. 93	decisions/delaware-court-of-chancery/1819/1-Del-Ch-93.md
 1 Harr. 1	decisions/delaware-superior-court/1832/1-Del-1.md
 1 Harr. 10	decisions/delaware-superior-court/1832/1-Del-10--cap-1867923.md
 1 Harr. 10	decisions/delaware-superior-court/1832/1-Del-10.md
@@ -610,12 +673,12 @@ reference	path
 1 Harr. 452	decisions/delaware-superior-court/1834/1-Del-452.md
 1 Harr. 453	decisions/delaware-superior-court/1834/1-Del-453.md
 1 Harr. 454	decisions/delaware-superior-court/1834/1-Del-454.md
-1 Harr. 464	decisions/delaware-superior-court/1834/1-Del-343.md
+1 Harr. 464	decisions/delaware-superior-court/1834/1-Del-464.md
 1 Harr. 466	decisions/delaware-superior-court/1834/1-Del-466--cap-1868061.md
 1 Harr. 466	decisions/delaware-superior-court/1834/1-Del-466.md
 1 Harr. 474	decisions/delaware-superior-court/1835/1-Del-474.md
 1 Harr. 475	decisions/delaware-superior-court/1835/1-Del-475.md
-1 Harr. 476	decisions/delaware-superior-court/1835/1-Del-477.md
+1 Harr. 476	decisions/delaware-superior-court/1835/1-Del-476.md
 1 Harr. 477	decisions/delaware-superior-court/1835/1-Del-477.md
 1 Harr. 494	decisions/delaware-superior-court/1835/1-Del-494.md
 1 Harr. 495	decisions/delaware-superior-court/1835/1-Del-495.md
@@ -634,7 +697,7 @@ reference	path
 1 Harr. 520	decisions/delaware-superior-court/1835/1-Del-520.md
 1 Harr. 522	decisions/delaware-superior-court/1835/1-Del-522.md
 1 Harr. 523	decisions/delaware-superior-court/1835/1-Del-523.md
-1 Harr. 524	decisions/delaware-superior-court/1835/1-Del-477.md
+1 Harr. 524	decisions/delaware-superior-court/1835/1-Del-524.md
 1 Harr. 529	decisions/delaware-superior-court/1835/1-Del-529.md
 1 Harr. 530	decisions/delaware-superior-court/1835/1-Del-530--cap-1867999.md
 1 Harr. 530	decisions/delaware-superior-court/1835/1-Del-530.md
@@ -993,7 +1056,7 @@ reference	path
 10 Del. 510	decisions/delaware-superior-court/1879/10-Del-510.md
 10 Del. 513	decisions/delaware-superior-court/1879/10-Del-513.md
 10 Del. 519	decisions/delaware-superior-court/1879/10-Del-519.md
-10 Del. 520	decisions/delaware-superior-court/1879/10-Del-528.md
+10 Del. 520	decisions/delaware-superior-court/1879/10-Del-520.md
 10 Del. 521	decisions/delaware-superior-court/1879/10-Del-521.md
 10 Del. 526	decisions/delaware-superior-court/1879/10-Del-526.md
 10 Del. 528	decisions/delaware-superior-court/1879/10-Del-528.md
@@ -1005,7 +1068,7 @@ reference	path
 10 Del. 577	decisions/delaware-superior-court/1879/10-Del-577.md
 10 Del. 587	decisions/delaware-superior-court/1879/10-Del-587.md
 10 Del. 596	decisions/delaware-superior-court/1879/10-Del-596.md
-10 Del. 597	decisions/delaware-superior-court/1879/10-Del-521.md
+10 Del. 597	decisions/delaware-superior-court/1879/10-Del-597.md
 10 Del. 599	decisions/delaware-superior-court/1879/10-Del-599.md
 10 Del. 9	decisions/delaware-superior-court/1875/10-Del-9.md
 10 Del. Ch. 1	decisions/delaware-court-of-chancery/1912/10-Del-Ch-1.md
@@ -1151,7 +1214,7 @@ reference	path
 11	decisions/delaware-superior-court/1948/44-Del-513.md
 11 A.3d 1175	decisions/delaware-court-of-chancery/2010/11-A-3d-1175.md
 11 A.3d 1180	decisions/delaware-court-of-chancery/2010/11-A-3d-1180.md
-11 Del. 142	decisions/delaware-superior-court/1880/11-Del-32.md
+11 Del. 142	decisions/delaware-superior-court/1880/11-Del-142.md
 11 Del. 146	decisions/delaware-superior-court/1880/11-Del-146.md
 11 Del. 171	decisions/delaware-superior-court/1880/11-Del-171.md
 11 Del. 181	decisions/delaware-superior-court/1880/11-Del-181.md
@@ -1778,7 +1841,7 @@ reference	path
 141	decisions/delaware-superior-court/1937/38-Del-480.md
 141	decisions/delaware-superior-court/1939/40-Del-157.md
 141	decisions/delaware-superior-court/1947/44-Del-134.md
-141 A.3d 1058	decisions/delaware-superior-court/2016/138-A-3d-1160.md
+141 A.3d 1058	decisions/delaware-superior-court/2016/141-A-3d-1058.md
 142	decisions/delaware-superior-court/1897/17-Del-87.md
 142	decisions/delaware-superior-court/1903/20-Del-447.md
 142	decisions/delaware-superior-court/1905/21-Del-369.md
@@ -2436,7 +2499,7 @@ reference	path
 18 Del. 132	decisions/delaware-superior-court/1899/18-Del-132.md
 18 Del. 136	decisions/delaware-superior-court/1899/18-Del-136.md
 18 Del. 139	decisions/delaware-court-of-general-sessions/1899/18-Del-139.md
-18 Del. 143	decisions/delaware-court-of-general-sessions/1899/18-Del-147.md
+18 Del. 143	decisions/delaware-court-of-general-sessions/1899/18-Del-143.md
 18 Del. 147	decisions/delaware-court-of-general-sessions/1899/18-Del-147.md
 18 Del. 155	decisions/delaware-superior-court/1899/18-Del-155.md
 18 Del. 157	decisions/delaware-superior-court/1899/18-Del-157.md
@@ -3090,7 +3153,7 @@ reference	path
 2 Del. Cas. 104	decisions/delaware-court-of-common-pleas/1798/2-Del-Cas-104.md
 2 Del. Cas. 105	decisions/delaware-court-of-common-pleas/1798/2-Del-Cas-105.md
 2 Del. Cas. 106	decisions/delaware-court-of-common-pleas/1798/2-Del-Cas-106.md
-2 Del. Cas. 107	decisions/delaware-court-of-common-pleas/1798/1-Del-Cas-203.md
+2 Del. Cas. 107	decisions/delaware-court-of-common-pleas/1798/2-Del-Cas-107.md
 2 Del. Cas. 110	decisions/delaware-court-of-common-pleas/1798/2-Del-Cas-110.md
 2 Del. Cas. 113	decisions/delaware-court-of-quarter-sessions/1798/2-Del-Cas-113.md
 2 Del. Cas. 116	decisions/delaware-court-of-common-pleas/1798/2-Del-Cas-116.md
@@ -3363,12 +3426,67 @@ reference	path
 2 Del. Cas. 82	decisions/delaware-court-of-common-pleas/1797/2-Del-Cas-82.md
 2 Del. Cas. 85	decisions/delaware-court-of-common-pleas/1797/2-Del-Cas-85.md
 2 Del. Cas. 88	decisions/delaware-court-of-quarter-sessions/1797/2-Del-Cas-88.md
-2 Del. Cas. 9	decisions/delaware-court-of-common-pleas/1793/1-Del-Cas-16.md
+2 Del. Cas. 9	decisions/delaware-court-of-common-pleas/1793/2-Del-Cas-9.md
 2 Del. Cas. 9	decisions/delaware-court-of-quarter-sessions/1794/2-Del-Cas-9.md
 2 Del. Cas. 96	decisions/delaware-court-of-common-pleas/1797/2-Del-Cas-96.md
 2 Del. Cas. 98	decisions/delaware-court-of-common-pleas/1798/2-Del-Cas-98--cap-503499.md
 2 Del. Cas. 98	decisions/delaware-court-of-common-pleas/1798/2-Del-Cas-98.md
 2 Del. Cas. 99	decisions/delaware-court-of-common-pleas/1798/2-Del-Cas-99.md
+2 Del. Ch. 1	decisions/delaware-court-of-chancery/1833/2-Del-Ch-1.md
+2 Del. Ch. 102	decisions/delaware-court-of-chancery/1845/2-Del-Ch-102.md
+2 Del. Ch. 110	decisions/delaware-court-of-chancery/1845/2-Del-Ch-110.md
+2 Del. Ch. 12	decisions/delaware-court-of-chancery/1835/2-Del-Ch-12.md
+2 Del. Ch. 125	decisions/delaware-court-of-chancery/1846/2-Del-Ch-125.md
+2 Del. Ch. 130	decisions/delaware-court-of-chancery/1847/2-Del-Ch-130.md
+2 Del. Ch. 135	decisions/delaware-court-of-chancery/1847/2-Del-Ch-135.md
+2 Del. Ch. 141	decisions/delaware-court-of-chancery/1851/2-Del-Ch-141.md
+2 Del. Ch. 165	decisions/delaware-court-of-chancery/1853/2-Del-Ch-165.md
+2 Del. Ch. 17	decisions/delaware-court-of-chancery/1836/2-Del-Ch-17.md
+2 Del. Ch. 171	decisions/delaware-court-of-chancery/1858/2-Del-Ch-171.md
+2 Del. Ch. 176	decisions/delaware-court-of-chancery/1858/2-Del-Ch-176.md
+2 Del. Ch. 188	decisions/delaware-court-of-chancery/1859/2-Del-Ch-188.md
+2 Del. Ch. 191	decisions/delaware-court-of-chancery/1859/2-Del-Ch-191.md
+2 Del. Ch. 197	decisions/delaware-court-of-chancery/1859/2-Del-Ch-197.md
+2 Del. Ch. 20	decisions/delaware-court-of-chancery/1836/2-Del-Ch-20.md
+2 Del. Ch. 200	decisions/delaware-court-of-chancery/1859/2-Del-Ch-200.md
+2 Del. Ch. 206	decisions/delaware-court-of-chancery/1859/2-Del-Ch-206.md
+2 Del. Ch. 219	decisions/delaware-court-of-chancery/1859/2-Del-Ch-219.md
+2 Del. Ch. 227	decisions/delaware-court-of-chancery/1859/2-Del-Ch-227.md
+2 Del. Ch. 23	decisions/delaware-court-of-chancery/1837/2-Del-Ch-23.md
+2 Del. Ch. 230	decisions/delaware-court-of-chancery/1859/2-Del-Ch-230.md
+2 Del. Ch. 233	decisions/delaware-court-of-chancery/1860/2-Del-Ch-233.md
+2 Del. Ch. 236	decisions/delaware-court-of-chancery/1860/2-Del-Ch-236.md
+2 Del. Ch. 247	decisions/delaware-court-of-chancery/1860/2-Del-Ch-247.md
+2 Del. Ch. 260	decisions/delaware-court-of-chancery/1861/2-Del-Ch-260.md
+2 Del. Ch. 266	decisions/delaware-court-of-chancery/1861/2-Del-Ch-266.md
+2 Del. Ch. 269	decisions/delaware-court-of-chancery/1861/2-Del-Ch-269.md
+2 Del. Ch. 27	decisions/delaware-court-of-chancery/1837/2-Del-Ch-27.md
+2 Del. Ch. 273	decisions/delaware-court-of-chancery/1861/2-Del-Ch-273.md
+2 Del. Ch. 278	decisions/delaware-court-of-chancery/1861/2-Del-Ch-278.md
+2 Del. Ch. 284	decisions/delaware-court-of-chancery/1861/2-Del-Ch-284.md
+2 Del. Ch. 290	decisions/delaware-court-of-chancery/1861/2-Del-Ch-290.md
+2 Del. Ch. 297	decisions/delaware-court-of-chancery/1862/2-Del-Ch-297.md
+2 Del. Ch. 304	decisions/delaware-court-of-chancery/1862/2-Del-Ch-304.md
+2 Del. Ch. 314	decisions/delaware-court-of-chancery/1863/2-Del-Ch-314.md
+2 Del. Ch. 318	decisions/delaware-court-of-chancery/1864/2-Del-Ch-318.md
+2 Del. Ch. 320	decisions/delaware-court-of-chancery/1864/2-Del-Ch-320.md
+2 Del. Ch. 324	decisions/delaware-court-of-chancery/1864/2-Del-Ch-324.md
+2 Del. Ch. 326	decisions/delaware-court-of-chancery/1865/2-Del-Ch-326.md
+2 Del. Ch. 328	decisions/delaware-court-of-chancery/1865/2-Del-Ch-328.md
+2 Del. Ch. 331	decisions/delaware-court-of-chancery/1865/2-Del-Ch-331.md
+2 Del. Ch. 333	decisions/delaware-court-of-chancery/1866/2-Del-Ch-333.md
+2 Del. Ch. 34	decisions/delaware-court-of-chancery/1837/2-Del-Ch-34.md
+2 Del. Ch. 386	decisions/delaware-court-of-chancery/1868/2-Del-Ch-386.md
+2 Del. Ch. 392	decisions/delaware-court-of-chancery/1847/2-Del-Ch-392.md
+2 Del. Ch. 44	decisions/delaware-court-of-chancery/1837/2-Del-Ch-44.md
+2 Del. Ch. 46	decisions/delaware-court-of-chancery/1838/2-Del-Ch-46.md
+2 Del. Ch. 58	decisions/delaware-court-of-chancery/1838/2-Del-Ch-58.md
+2 Del. Ch. 61	decisions/delaware-court-of-chancery/1838/2-Del-Ch-61.md
+2 Del. Ch. 72	decisions/delaware-court-of-chancery/1840/2-Del-Ch-72.md
+2 Del. Ch. 83	decisions/delaware-court-of-chancery/1840/2-Del-Ch-83.md
+2 Del. Ch. 86	decisions/delaware-court-of-chancery/1840/2-Del-Ch-86.md
+2 Del. Ch. 92	decisions/delaware-court-of-chancery/1842/2-Del-Ch-92.md
+2 Del. Ch. 95	decisions/delaware-court-of-chancery/1843/2-Del-Ch-95.md
 2 Harr. 103	decisions/delaware-superior-court/1836/2-Del-103.md
 2 Harr. 124	decisions/delaware-superior-court/1836/2-Del-124.md
 2 Harr. 125	decisions/delaware-superior-court/1836/2-Del-125.md
@@ -3579,7 +3697,7 @@ reference	path
 2 Houst. 206	decisions/delaware-superior-court/1860/7-Del-206.md
 2 Houst. 209	decisions/delaware-superior-court/1860/7-Del-209.md
 2 Houst. 21	decisions/delaware-superior-court/1858/7-Del-21.md
-2 Houst. 223	decisions/delaware-superior-court/1860/7-Del-209.md
+2 Houst. 223	decisions/delaware-superior-court/1860/7-Del-223.md
 2 Houst. 234	decisions/delaware-superior-court/1860/7-Del-234.md
 2 Houst. 24	decisions/delaware-superior-court/1858/7-Del-24.md
 2 Houst. 242	decisions/delaware-superior-court/1860/7-Del-242.md
@@ -3726,7 +3844,7 @@ reference	path
 2 Penne. 132	decisions/delaware-superior-court/1899/18-Del-132.md
 2 Penne. 136	decisions/delaware-superior-court/1899/18-Del-136.md
 2 Penne. 139	decisions/delaware-court-of-general-sessions/1899/18-Del-139.md
-2 Penne. 143	decisions/delaware-court-of-general-sessions/1899/18-Del-147.md
+2 Penne. 143	decisions/delaware-court-of-general-sessions/1899/18-Del-143.md
 2 Penne. 147	decisions/delaware-court-of-general-sessions/1899/18-Del-147.md
 2 Penne. 155	decisions/delaware-superior-court/1899/18-Del-155.md
 2 Penne. 157	decisions/delaware-superior-court/1899/18-Del-157.md
@@ -4330,7 +4448,7 @@ reference	path
 22 Del. Ch. 447	decisions/delaware-orphans-court/1937/22-Del-Ch-447.md
 22 Del. Ch. 47	decisions/delaware-court-of-chancery/1937/22-Del-Ch-47.md
 22 Del. Ch. 58	decisions/delaware-court-of-chancery/1937/22-Del-Ch-58.md
-22 Del. Ch. 70	decisions/delaware-court-of-chancery/1937/22-Del-Ch-74.md
+22 Del. Ch. 70	decisions/delaware-court-of-chancery/1937/22-Del-Ch-70.md
 22 Del. Ch. 74	decisions/delaware-court-of-chancery/1937/22-Del-Ch-74.md
 22 Del. Ch. 82	decisions/delaware-court-of-chancery/1937/22-Del-Ch-82.md
 22 Del. Ch. 92	decisions/delaware-court-of-chancery/1937/22-Del-Ch-92.md
@@ -4802,7 +4920,7 @@ reference	path
 25 Del. Ch. 164	decisions/delaware-court-of-chancery/1940/25-Del-Ch-164.md
 25 Del. Ch. 172	decisions/delaware-court-of-chancery/1940/25-Del-Ch-172.md
 25 Del. Ch. 177	decisions/delaware-court-of-chancery/1940/25-Del-Ch-177.md
-25 Del. Ch. 193	decisions/delaware-court-of-chancery/1940/25-Del-Ch-204.md
+25 Del. Ch. 193	decisions/delaware-court-of-chancery/1940/25-Del-Ch-193.md
 25 Del. Ch. 204	decisions/delaware-court-of-chancery/1940/25-Del-Ch-204.md
 25 Del. Ch. 215	decisions/delaware-court-of-chancery/1940/25-Del-Ch-215.md
 25 Del. Ch. 220	decisions/delaware-court-of-chancery/1940/25-Del-Ch-220.md
@@ -5238,7 +5356,7 @@ reference	path
 27 Del. 86	decisions/delaware-superior-court/1913/27-Del-86.md
 27 Del. 88	decisions/delaware-superior-court/1913/27-Del-88.md
 27 Del. 9	decisions/delaware-superior-court/1911/27-Del-9.md
-27 Del. 91	decisions/delaware-superior-court/1913/27-Del-130.md
+27 Del. 91	decisions/delaware-superior-court/1913/27-Del-91.md
 27 Del. 93	decisions/delaware-superior-court/1913/27-Del-93.md
 27 Del. 97	decisions/delaware-superior-court/1913/27-Del-97.md
 27 Del. Ch. 1	decisions/delaware-court-of-chancery/1942/27-Del-Ch-1.md
@@ -5959,7 +6077,7 @@ reference	path
 3 Del. 332	decisions/delaware-superior-court/1841/3-Del-332.md
 3 Del. 333	decisions/delaware-superior-court/1841/3-Del-333.md
 3 Del. 334	decisions/delaware-superior-court/1841/3-Del-334.md
-3 Del. 338	decisions/delaware-superior-court/1841/3-Del-340.md
+3 Del. 338	decisions/delaware-superior-court/1841/3-Del-338.md
 3 Del. 340	decisions/delaware-superior-court/1841/3-Del-340.md
 3 Del. 342	decisions/delaware-superior-court/1841/3-Del-342--cap-8878616.md
 3 Del. 342	decisions/delaware-superior-court/1841/3-Del-342--cap-8878644.md
@@ -6003,7 +6121,7 @@ reference	path
 3 Del. 48	decisions/delaware-superior-court/1839/3-Del-48.md
 3 Del. 482	decisions/delaware-superior-court/1842/3-Del-482.md
 3 Del. 483	decisions/delaware-superior-court/1842/3-Del-483.md
-3 Del. 484	decisions/delaware-superior-court/1842/3-Del-511.md
+3 Del. 484	decisions/delaware-superior-court/1842/3-Del-484.md
 3 Del. 485	decisions/delaware-superior-court/1842/3-Del-485.md
 3 Del. 486	decisions/delaware-superior-court/1842/3-Del-486.md
 3 Del. 487	decisions/delaware-superior-court/1842/3-Del-487.md
@@ -6157,6 +6275,34 @@ reference	path
 3 Del. Cas. 84	decisions/delaware-court-of-chancery/1824/3-Del-Cas-84--cap-502326.md
 3 Del. Cas. 84	decisions/delaware-court-of-chancery/1824/3-Del-Cas-84--cap-502347.md
 3 Del. Cas. 84	decisions/delaware-court-of-chancery/1824/3-Del-Cas-84.md
+3 Del. Ch. 124	decisions/delaware-court-of-chancery/1867/3-Del-Ch-124.md
+3 Del. Ch. 132	decisions/delaware-court-of-chancery/1867/3-Del-Ch-132.md
+3 Del. Ch. 153	decisions/delaware-court-of-chancery/1867/3-Del-Ch-153.md
+3 Del. Ch. 159	decisions/delaware-court-of-chancery/1867/3-Del-Ch-159.md
+3 Del. Ch. 165	decisions/delaware-court-of-chancery/1867/3-Del-Ch-165.md
+3 Del. Ch. 183	decisions/delaware-court-of-chancery/1867/3-Del-Ch-183.md
+3 Del. Ch. 189	decisions/delaware-court-of-chancery/1868/3-Del-Ch-189.md
+3 Del. Ch. 209	decisions/delaware-court-of-chancery/1868/3-Del-Ch-209.md
+3 Del. Ch. 225	decisions/delaware-court-of-chancery/1868/3-Del-Ch-225.md
+3 Del. Ch. 232	decisions/delaware-court-of-chancery/1868/3-Del-Ch-232.md
+3 Del. Ch. 239	decisions/delaware-court-of-chancery/1868/3-Del-Ch-239.md
+3 Del. Ch. 260	decisions/delaware-court-of-chancery/1869/3-Del-Ch-260.md
+3 Del. Ch. 269	decisions/delaware-court-of-chancery/1869/3-Del-Ch-269.md
+3 Del. Ch. 274	decisions/delaware-court-of-chancery/1869/3-Del-Ch-274.md
+3 Del. Ch. 307	decisions/delaware-court-of-chancery/1869/3-Del-Ch-307.md
+3 Del. Ch. 321	decisions/delaware-court-of-chancery/1869/3-Del-Ch-321.md
+3 Del. Ch. 348	decisions/delaware-court-of-chancery/1869/3-Del-Ch-348.md
+3 Del. Ch. 407	decisions/delaware-court-of-chancery/1869/3-Del-Ch-407.md
+3 Del. Ch. 422	decisions/delaware-court-of-chancery/1870/3-Del-Ch-422.md
+3 Del. Ch. 445	decisions/delaware-court-of-chancery/1870/3-Del-Ch-445.md
+3 Del. Ch. 466	decisions/delaware-court-of-chancery/1870/3-Del-Ch-466.md
+3 Del. Ch. 496	decisions/delaware-court-of-chancery/1871/3-Del-Ch-496.md
+3 Del. Ch. 51	decisions/delaware-court-of-chancery/1866/3-Del-Ch-51.md
+3 Del. Ch. 512	decisions/delaware-court-of-chancery/1871/3-Del-Ch-512.md
+3 Del. Ch. 9	decisions/delaware-court-of-chancery/1866/3-Del-Ch-9.md
+3 Del. Ch. 92	decisions/delaware-court-of-chancery/1866/3-Del-Ch-92.md
+3 Del. Ch. 94	decisions/delaware-court-of-chancery/1866/3-Del-Ch-94.md
+3 Del. Ch. 99	decisions/delaware-court-of-chancery/1867/3-Del-Ch-99.md
 3 Harr. 1	decisions/delaware-superior-court/1839/3-Del-1.md
 3 Harr. 13	decisions/delaware-superior-court/1839/3-Del-13--cap-8877291.md
 3 Harr. 13	decisions/delaware-superior-court/1839/3-Del-13.md
@@ -6197,7 +6343,7 @@ reference	path
 3 Harr. 332	decisions/delaware-superior-court/1841/3-Del-332.md
 3 Harr. 333	decisions/delaware-superior-court/1841/3-Del-333.md
 3 Harr. 334	decisions/delaware-superior-court/1841/3-Del-334.md
-3 Harr. 338	decisions/delaware-superior-court/1841/3-Del-340.md
+3 Harr. 338	decisions/delaware-superior-court/1841/3-Del-338.md
 3 Harr. 340	decisions/delaware-superior-court/1841/3-Del-340.md
 3 Harr. 342	decisions/delaware-superior-court/1841/3-Del-342--cap-8878616.md
 3 Harr. 342	decisions/delaware-superior-court/1841/3-Del-342--cap-8878644.md
@@ -6241,7 +6387,7 @@ reference	path
 3 Harr. 48	decisions/delaware-superior-court/1839/3-Del-48.md
 3 Harr. 482	decisions/delaware-superior-court/1842/3-Del-482.md
 3 Harr. 483	decisions/delaware-superior-court/1842/3-Del-483.md
-3 Harr. 484	decisions/delaware-superior-court/1842/3-Del-511.md
+3 Harr. 484	decisions/delaware-superior-court/1842/3-Del-484.md
 3 Harr. 485	decisions/delaware-superior-court/1842/3-Del-485.md
 3 Harr. 486	decisions/delaware-superior-court/1842/3-Del-486.md
 3 Harr. 487	decisions/delaware-superior-court/1842/3-Del-487.md
@@ -8582,7 +8728,7 @@ reference	path
 4 Boyce 86	decisions/delaware-superior-court/1913/27-Del-86.md
 4 Boyce 88	decisions/delaware-superior-court/1913/27-Del-88.md
 4 Boyce 9	decisions/delaware-superior-court/1911/27-Del-9.md
-4 Boyce 91	decisions/delaware-superior-court/1913/27-Del-130.md
+4 Boyce 91	decisions/delaware-superior-court/1913/27-Del-91.md
 4 Boyce 93	decisions/delaware-superior-court/1913/27-Del-93.md
 4 Boyce 97	decisions/delaware-superior-court/1913/27-Del-97.md
 4 Del. 100	decisions/delaware-superior-court/1844/4-Del-100.md
@@ -8765,6 +8911,59 @@ reference	path
 4 Del. 94	decisions/delaware-superior-court/1843/4-Del-94.md
 4 Del. 96	decisions/delaware-superior-court/1843/4-Del-96.md
 4 Del. 99	decisions/delaware-superior-court/1843/4-Del-99.md
+4 Del. Ch. 108	decisions/delaware-court-of-chancery/1871/4-Del-Ch-108.md
+4 Del. Ch. 117	decisions/delaware-court-of-chancery/1871/4-Del-Ch-117.md
+4 Del. Ch. 135	decisions/delaware-court-of-chancery/1871/4-Del-Ch-135.md
+4 Del. Ch. 180	decisions/delaware-court-of-chancery/1871/4-Del-Ch-180.md
+4 Del. Ch. 198	decisions/delaware-court-of-chancery/1871/4-Del-Ch-198.md
+4 Del. Ch. 20	decisions/delaware-court-of-chancery/1866/4-Del-Ch-20.md
+4 Del. Ch. 24	decisions/delaware-court-of-chancery/1867/4-Del-Ch-24.md
+4 Del. Ch. 249	decisions/delaware-court-of-chancery/1871/4-Del-Ch-249.md
+4 Del. Ch. 25	decisions/delaware-court-of-chancery/1867/4-Del-Ch-25.md
+4 Del. Ch. 253	decisions/delaware-court-of-chancery/1871/4-Del-Ch-253.md
+4 Del. Ch. 264	decisions/delaware-court-of-chancery/1871/4-Del-Ch-264.md
+4 Del. Ch. 269	decisions/delaware-court-of-chancery/1871/4-Del-Ch-269.md
+4 Del. Ch. 27	decisions/delaware-court-of-chancery/1867/4-Del-Ch-27.md
+4 Del. Ch. 274	decisions/delaware-court-of-chancery/1871/4-Del-Ch-274.md
+4 Del. Ch. 289	decisions/delaware-court-of-chancery/1871/4-Del-Ch-289.md
+4 Del. Ch. 29	decisions/delaware-court-of-chancery/1867/4-Del-Ch-29.md
+4 Del. Ch. 30	decisions/delaware-court-of-chancery/1867/4-Del-Ch-30--cap-471195.md
+4 Del. Ch. 30	decisions/delaware-court-of-chancery/1867/4-Del-Ch-30.md
+4 Del. Ch. 311	decisions/delaware-court-of-chancery/1872/4-Del-Ch-311.md
+4 Del. Ch. 337	decisions/delaware-court-of-chancery/1872/4-Del-Ch-337.md
+4 Del. Ch. 357	decisions/delaware-court-of-chancery/1872/4-Del-Ch-357.md
+4 Del. Ch. 382	decisions/delaware-court-of-chancery/1871/4-Del-Ch-382.md
+4 Del. Ch. 399	decisions/delaware-court-of-chancery/1872/4-Del-Ch-399.md
+4 Del. Ch. 416	decisions/delaware-court-of-chancery/1872/4-Del-Ch-416.md
+4 Del. Ch. 43	decisions/delaware-court-of-chancery/1867/4-Del-Ch-43.md
+4 Del. Ch. 44	decisions/delaware-court-of-chancery/1868/4-Del-Ch-44.md
+4 Del. Ch. 445	decisions/delaware-court-of-chancery/1872/4-Del-Ch-445.md
+4 Del. Ch. 490	decisions/delaware-court-of-chancery/1872/4-Del-Ch-490.md
+4 Del. Ch. 491	decisions/delaware-court-of-chancery/1872/4-Del-Ch-491.md
+4 Del. Ch. 503	decisions/delaware-court-of-chancery/1872/4-Del-Ch-503.md
+4 Del. Ch. 508	decisions/delaware-court-of-chancery/1872/4-Del-Ch-508.md
+4 Del. Ch. 51	decisions/delaware-court-of-chancery/1868/4-Del-Ch-51.md
+4 Del. Ch. 521	decisions/delaware-court-of-chancery/1872/4-Del-Ch-521.md
+4 Del. Ch. 53	decisions/delaware-court-of-chancery/1868/4-Del-Ch-53.md
+4 Del. Ch. 536	decisions/delaware-court-of-chancery/1872/4-Del-Ch-536.md
+4 Del. Ch. 55	decisions/delaware-court-of-chancery/1869/4-Del-Ch-55.md
+4 Del. Ch. 559	decisions/delaware-court-of-chancery/1872/4-Del-Ch-559.md
+4 Del. Ch. 567	decisions/delaware-court-of-chancery/1872/4-Del-Ch-567.md
+4 Del. Ch. 568	decisions/delaware-court-of-chancery/1872/4-Del-Ch-568.md
+4 Del. Ch. 573	decisions/delaware-court-of-chancery/1873/4-Del-Ch-573.md
+4 Del. Ch. 575	decisions/delaware-court-of-chancery/1873/4-Del-Ch-575.md
+4 Del. Ch. 58	decisions/delaware-court-of-chancery/1869/4-Del-Ch-58.md
+4 Del. Ch. 580	decisions/delaware-court-of-chancery/1873/4-Del-Ch-580.md
+4 Del. Ch. 598	decisions/delaware-court-of-chancery/1873/4-Del-Ch-598.md
+4 Del. Ch. 599	decisions/delaware-court-of-chancery/1873/4-Del-Ch-599.md
+4 Del. Ch. 615	decisions/delaware-court-of-chancery/1873/4-Del-Ch-615.md
+4 Del. Ch. 618	decisions/delaware-court-of-chancery/1873/4-Del-Ch-618.md
+4 Del. Ch. 63	decisions/delaware-court-of-chancery/1871/4-Del-Ch-63.md
+4 Del. Ch. 634	decisions/delaware-court-of-chancery/1873/4-Del-Ch-634.md
+4 Del. Ch. 643	decisions/delaware-court-of-chancery/1873/4-Del-Ch-643.md
+4 Del. Ch. 72	decisions/delaware-court-of-chancery/1871/4-Del-Ch-72.md
+4 Del. Ch. 9	decisions/delaware-court-of-chancery/1866/4-Del-Ch-9.md
+4 Del. Ch. 96	decisions/delaware-court-of-chancery/1871/4-Del-Ch-96.md
 4 Harr. 100	decisions/delaware-superior-court/1844/4-Del-100.md
 4 Harr. 101	decisions/delaware-superior-court/1844/4-Del-101.md
 4 Harr. 104	decisions/delaware-superior-court/1844/4-Del-104.md
@@ -10462,7 +10661,7 @@ reference	path
 5 Del. 106	decisions/delaware-superior-court/1848/5-Del-106.md
 5 Del. 107	decisions/delaware-superior-court/1848/5-Del-107--cap-1863572.md
 5 Del. 107	decisions/delaware-superior-court/1848/5-Del-107.md
-5 Del. 108	decisions/delaware-superior-court/1848/5-Del-15.md
+5 Del. 108	decisions/delaware-superior-court/1848/5-Del-108.md
 5 Del. 109	decisions/delaware-superior-court/1848/5-Del-109.md
 5 Del. 110	decisions/delaware-superior-court/1848/5-Del-110.md
 5 Del. 115	decisions/delaware-superior-court/1848/5-Del-115.md
@@ -10614,7 +10813,7 @@ reference	path
 5 Del. 431	decisions/delaware-superior-court/1854/5-Del-431.md
 5 Del. 432	decisions/delaware-superior-court/1854/5-Del-432.md
 5 Del. 435	decisions/delaware-superior-court/1854/5-Del-435.md
-5 Del. 437	decisions/delaware-superior-court/1854/5-Del-431.md
+5 Del. 437	decisions/delaware-superior-court/1854/5-Del-437.md
 5 Del. 445	decisions/delaware-superior-court/1854/5-Del-445.md
 5 Del. 448	decisions/delaware-superior-court/1854/5-Del-448.md
 5 Del. 45	decisions/delaware-superior-court/1848/5-Del-45.md
@@ -10714,7 +10913,7 @@ reference	path
 5 Harr. 106	decisions/delaware-superior-court/1848/5-Del-106.md
 5 Harr. 107	decisions/delaware-superior-court/1848/5-Del-107--cap-1863572.md
 5 Harr. 107	decisions/delaware-superior-court/1848/5-Del-107.md
-5 Harr. 108	decisions/delaware-superior-court/1848/5-Del-15.md
+5 Harr. 108	decisions/delaware-superior-court/1848/5-Del-108.md
 5 Harr. 109	decisions/delaware-superior-court/1848/5-Del-109.md
 5 Harr. 110	decisions/delaware-superior-court/1848/5-Del-110.md
 5 Harr. 115	decisions/delaware-superior-court/1848/5-Del-115.md
@@ -10866,7 +11065,7 @@ reference	path
 5 Harr. 431	decisions/delaware-superior-court/1854/5-Del-431.md
 5 Harr. 432	decisions/delaware-superior-court/1854/5-Del-432.md
 5 Harr. 435	decisions/delaware-superior-court/1854/5-Del-435.md
-5 Harr. 437	decisions/delaware-superior-court/1854/5-Del-431.md
+5 Harr. 437	decisions/delaware-superior-court/1854/5-Del-437.md
 5 Harr. 445	decisions/delaware-superior-court/1854/5-Del-445.md
 5 Harr. 448	decisions/delaware-superior-court/1854/5-Del-448.md
 5 Harr. 45	decisions/delaware-superior-court/1848/5-Del-45.md
@@ -10967,7 +11166,7 @@ reference	path
 5 Houst. 510	decisions/delaware-superior-court/1879/10-Del-510.md
 5 Houst. 513	decisions/delaware-superior-court/1879/10-Del-513.md
 5 Houst. 519	decisions/delaware-superior-court/1879/10-Del-519.md
-5 Houst. 520	decisions/delaware-superior-court/1879/10-Del-528.md
+5 Houst. 520	decisions/delaware-superior-court/1879/10-Del-520.md
 5 Houst. 521	decisions/delaware-superior-court/1879/10-Del-521.md
 5 Houst. 526	decisions/delaware-superior-court/1879/10-Del-526.md
 5 Houst. 528	decisions/delaware-superior-court/1879/10-Del-528.md
@@ -10979,7 +11178,7 @@ reference	path
 5 Houst. 577	decisions/delaware-superior-court/1879/10-Del-577.md
 5 Houst. 587	decisions/delaware-superior-court/1879/10-Del-587.md
 5 Houst. 596	decisions/delaware-superior-court/1879/10-Del-596.md
-5 Houst. 597	decisions/delaware-superior-court/1879/10-Del-521.md
+5 Houst. 597	decisions/delaware-superior-court/1879/10-Del-597.md
 5 Houst. 599	decisions/delaware-superior-court/1879/10-Del-599.md
 5 Houst. 9	decisions/delaware-superior-court/1875/10-Del-9.md
 5 Penne. 1	decisions/delaware-court-of-general-sessions/1904/21-Del-1.md
@@ -11712,6 +11911,8 @@ reference	path
 566 A.2d 1016	decisions/delaware-superior-court/1989/566-A-2d-1016.md
 566 A.2d 1020	decisions/delaware-superior-court/1989/566-A-2d-1020.md
 566 A.2d 8	decisions/delaware-court-of-chancery/1989/566-A-2d-8.md
+567 A.2d 1	decisions/delaware-court-of-chancery/1989/567-A-2d-1.md
+567 A.2d 19	decisions/delaware-court-of-chancery/1989/567-A-2d-19.md
 567 A.2d 29	decisions/delaware-superior-court/1989/567-A-2d-29.md
 567 A.2d 870	decisions/delaware-superior-court/1989/567-A-2d-870.md
 56; No. 55; No. 54; Nos. 56, 55 and 54	decisions/delaware-superior-court/1956/50-Del-193.md
@@ -11721,7 +11922,7 @@ reference	path
 57	decisions/delaware-superior-court/1923/32-Del-154.md
 57	decisions/delaware-superior-court/1948/44-Del-447.md
 57 A.3d 917	decisions/delaware-court-of-chancery/2012/57-A-3d-917.md
-57 A.3d 926	decisions/delaware-court-of-chancery/2012/62-A-3d-26.md
+57 A.3d 926	decisions/delaware-court-of-chancery/2012/57-A-3d-926.md
 57 A.3d 928	decisions/delaware-court-of-chancery/2012/57-A-3d-928.md
 57 Del. 1	decisions/delaware-superior-court/1963/57-Del-1.md
 57 Del. 112	decisions/delaware-superior-court/1963/57-Del-112.md
@@ -12126,7 +12327,7 @@ reference	path
 6 Del. Ch. 52	decisions/delaware-court-of-chancery/1887/6-Del-Ch-52.md
 6 Del. Ch. 72	decisions/delaware-court-of-chancery/1887/6-Del-Ch-72.md
 6 Del. Ch. 81	decisions/delaware-court-of-chancery/1887/6-Del-Ch-81.md
-6 Houst. 142	decisions/delaware-superior-court/1880/11-Del-32.md
+6 Houst. 142	decisions/delaware-superior-court/1880/11-Del-142.md
 6 Houst. 146	decisions/delaware-superior-court/1880/11-Del-146.md
 6 Houst. 171	decisions/delaware-superior-court/1880/11-Del-171.md
 6 Houst. 181	decisions/delaware-superior-court/1880/11-Del-181.md
@@ -12728,7 +12929,7 @@ reference	path
 7 Del. 206	decisions/delaware-superior-court/1860/7-Del-206.md
 7 Del. 209	decisions/delaware-superior-court/1860/7-Del-209.md
 7 Del. 21	decisions/delaware-superior-court/1858/7-Del-21.md
-7 Del. 223	decisions/delaware-superior-court/1860/7-Del-209.md
+7 Del. 223	decisions/delaware-superior-court/1860/7-Del-223.md
 7 Del. 234	decisions/delaware-superior-court/1860/7-Del-234.md
 7 Del. 24	decisions/delaware-superior-court/1858/7-Del-24.md
 7 Del. 242	decisions/delaware-superior-court/1860/7-Del-242.md
@@ -14037,7 +14238,7 @@ reference	path
 95	decisions/delaware-superior-court/1932/35-Del-133.md
 95	decisions/delaware-superior-court/1939/40-Del-298.md
 95 A.3d 42	decisions/delaware-superior-court/2014/95-A-3d-42.md
-95 A.3d 53	decisions/delaware-family-court/2013/93-A-3d-184.md
+95 A.3d 53	decisions/delaware-family-court/2013/95-A-3d-53.md
 95, Criminal Action, 1959	decisions/delaware-superior-court/1959/53-Del-80.md
 95-03-06T	decisions/delaware-family-court/1995/684-A-2d-1251.md
 950 A.2d 661	decisions/delaware-superior-court/2007/950-A-2d-661.md
@@ -14085,7 +14286,6 @@ reference	path
 968 A.2d 1027	decisions/delaware-court-of-chancery/2008/968-A-2d-1027.md
 969, Civil Action, 1954	decisions/delaware-superior-court/1956/49-Del-515.md
 96A-02-012-HLA	decisions/delaware-superior-court/1997/729-A-2d-312.md
-96C-05-295C-11-121, 95C-12-089, 96C-03-050, 96C-01-083, 96C-08-065, 96C-07-018, 94C-08-247, 95C-12-057, 96C-04-112, 96C-01-067, 77, 96C-02-127, 96C-06-218, 96C-03-193, 96C-03-180, 96C-03-049, 96C-04-251, 96C-02-125, 96C-01-011, 96C-07-224, 96C-07-168, 96C-05-268. 96C-03-181, 96C-07-226, 96C-03-252, 96C-06-050, 96C-03-269, 96C-03-253, 96C-02-155, 96C-06-171, 96C-08-072, 95C-03-269,	decisions/delaware-superior-court/1997/724-A-2d-1150.md
 96C-06-030 SCD	decisions/delaware-superior-court/1998/729-A-2d-874.md
 97	decisions/delaware-court-of-general-sessions/1931/35-Del-258.md
 97	decisions/delaware-superior-court/1903/20-Del-437.md
@@ -14188,7 +14388,6 @@ Action of Assumpsit No. 75	decisions/delaware-superior-court/1900/18-Del-496.md
 Action of Assumpsit No. 8	decisions/delaware-superior-court/1900/18-Del-499.md
 Action of Assumpsit No. 85	decisions/delaware-superior-court/1907/22-Del-407.md
 Action of Assumpsit No. 92	decisions/delaware-superior-court/1900/19-Del-57.md
-Action of Assumpsit No.-	decisions/delaware-superior-court/1902/22-Del-66.md
 Action of Assumpsit on a Contract, No. 122	decisions/delaware-superior-court/1938/39-Del-71.md
 Action of Assumpsit on a book account No. 183	decisions/delaware-superior-court/1900/19-Del-11.md
 Action of Assumpsit on a promissory note, No. 135	decisions/delaware-superior-court/1935/37-Del-94.md
@@ -14412,7 +14611,7 @@ Bayard’s Notebook, 71	decisions/delaware-circuit-court/1794/1-Del-Cas-353.md
 Bayard’s Notebook, 85	decisions/delaware-court-of-quarter-sessions/1794/1-Del-Cas-359.md
 Bayard’s Notebook, 86	decisions/delaware-court-of-common-pleas/1794/1-Del-Cas-361.md
 Bayard’s Notebook, 86	decisions/delaware-court-of-quarter-sessions/1794/1-Del-Cas-360.md
-Bayard’s Notebook, 87	decisions/delaware-court-of-common-pleas/1795/2-Del-Cas-47.md
+Bayard’s Notebook, 87	decisions/delaware-court-of-common-pleas/1795/1-Del-Cas-361.md
 Bayard’s Notebook, 97	decisions/delaware-court-of-common-pleas/1795/1-Del-Cas-367.md
 C-8825	decisions/delaware-family-court/1990/578-A-2d-171.md
 C.A. 12453	decisions/delaware-court-of-chancery/2000/793-A-2d-329.md
@@ -14498,6 +14697,7 @@ C.A. No. 10847-VCL	decisions/delaware-court-of-chancery/2015/122-A-3d-784.md
 C.A. No. 10847-VCL	decisions/delaware-court-of-chancery/2017/159-A-3d-713.md
 C.A. No. 10934-VCG	decisions/delaware-court-of-chancery/2016/135-A-3d-311.md
 C.A. No. 10983-VCMR	decisions/delaware-court-of-chancery/2016/143-A-3d-1266.md
+C.A. No. 10984	decisions/delaware-court-of-chancery/1989/567-A-2d-1.md
 C.A. No. 10C-12-054 PRW	decisions/delaware-superior-court/2014/88-A-3d-110.md
 C.A. No. 1106-N	decisions/delaware-court-of-chancery/2007/919-A-2d-563.md
 C.A. No. 112-N	decisions/delaware-court-of-chancery/2004/864-A-2d-930.md
@@ -14673,6 +14873,7 @@ C.A. No. 2487-N	decisions/delaware-court-of-chancery/2006/913-A-2d-593.md
 C.A. No. 2505-VCS	decisions/delaware-court-of-chancery/2007/937-A-2d-760.md
 C.A. No. 2557-VCL	decisions/delaware-court-of-chancery/2007/938-A-2d-654.md
 C.A. No. 2563-VCS	decisions/delaware-court-of-chancery/2007/924-A-2d-171.md
+C.A. No. 2578-VCP	decisions/delaware-court-of-chancery/2012/57-A-3d-926.md
 C.A. No. 2578-VCP	decisions/delaware-court-of-chancery/2012/62-A-3d-26.md
 C.A. No. 2578-VCP	decisions/delaware-court-of-chancery/2014/85-A-3d-725.md
 C.A. No. 2589-VCS	decisions/delaware-court-of-chancery/2007/931-A-2d-439.md
@@ -14872,6 +15073,7 @@ C.A. No. N12C-07-108 EMD CCLD	decisions/delaware-superior-court/2016/149-A-3d-24
 C.A. No. N12C-07-220 JRS CCLD	decisions/delaware-superior-court/2012/62-A-3d-1233.md
 C.A. No. N13C-01-119RBY	decisions/delaware-superior-court/2014/91-A-3d-994.md
 C.A. No. N15C-01-186 CLS	decisions/delaware-superior-court/2016/138-A-3d-1160.md
+C.A. No. N15C-01-186 CLS	decisions/delaware-superior-court/2016/141-A-3d-1058.md
 C.A. No. N15C-04-228 ALR	decisions/delaware-superior-court/2016/142-A-3d-518.md
 C.A. No. N16A-05-004 FWW	decisions/delaware-superior-court/2017/167-A-3d-530.md
 C.A. No. N17C-06-323 DCS	decisions/delaware-superior-court/2019/201-A-3d-555.md
@@ -14882,7 +15084,6 @@ C.A. No. S11C-01-031 RFS	decisions/delaware-superior-court/2013/79-A-3d-259.md
 C.A. No.: 04C-10-102 SCD	decisions/delaware-superior-court/2006/909-A-2d-611.md
 C.A. No: 11C-03-015 (RBY)	decisions/delaware-superior-court/2013/60-A-3d-1117.md
 C.A. Nos. 03A-06-002 WLW, 05A-07-001 WLW	decisions/delaware-superior-court/2006/951-A-2d-748.md
-C.A. Nos. 05C-05-246-JRS (ASB), 05C-08-250-JRS (ASB), 05C-07-206-JRS (ASB), 05C-08-262-JRS (ASB), 05C-08-176-JRS (ASB), 05C-07-178-JRS (ASB), 05C-08-142-JRS (ASB), 05C-06-083-JRS (ASB), 05C-07-124-JRS (ASB), 05C-05-203-JRS (ASB), 05C-06-215-JRS (ASB), 05C-05-274-JRS (ASB), 05C-07-223-JRS (ASB), 05C-08-248-JRS (ASB), 05C-07-248-JRS (ASB), 05C-08-249-JRS (ASB), 05C-06-341-JRS (ASB), 05C-06-057-JRS (ASB), 05C-05-273-JRS (ASB), 05C-06-029-JRS (ASB), 05C-08-162-JRS (ASB), 05C-06-216-JRS (ASB), 05C-08-061-JRS (ASB), 04C-09-122-JRS (ASB), 05C-09-214-JRS (ASB), 05C-08-220-JRS (ASB), 05C-07-109-JRS (ASB), 05C-08-260-JRS (ASB), 05C-06-067-JRS (ASB), 05C-05-329-JRS (ASB), 05C-05-242-JRS (ASB), 05C-05-270-JRS (ASB), 05C-08-261-JRS (ASB), 05C-08-218-JRS (ASB), 05C-05-302-JRS (ASB), 05C-05-341-JRS (ASB), 05C-05-272-JRS (ASB), 05C-05-247-JRS (ASB), 05C-08-285-JRS (ASB), and 05C-06-176-JRS (ASB)	decisions/delaware-superior-court/2006/929-A-2d-373.md
 C.A. Nos. 13052, 14727	decisions/delaware-court-of-chancery/1999/794-A-2d-1161.md
 C.A. Nos. 13208, 13117	decisions/delaware-court-of-chancery/1993/635-A-2d-1245.md
 C.A. Nos. 16584, 16588	decisions/delaware-court-of-chancery/1998/728-A-2d-25.md
@@ -14936,10 +15137,8 @@ CONSOLIDATED C.A. No. 10020-CB	decisions/delaware-court-of-chancery/2016/129-A-3
 CONSOLIDATED C.A. No. 10398-CB	decisions/delaware-court-of-chancery/2015/108-A-3d-294.md
 CONSOLIDATED C.A. No. 7455-CB	decisions/delaware-court-of-chancery/2017/167-A-3d-513.md
 CR. A. No. IN-92-09-1546-R1	decisions/delaware-superior-court/1994/655-A-2d-836.md
-CR. A. Nos. IK98-02-005, IK98-04-0110, IK98-02-003 IK98-02-004, IK98-04-0111, IK98-04-0112, IK98-02-0332 and IK98-02-0333	decisions/delaware-superior-court/1998/728-A-2d-1178.md
 CS00-04215	decisions/delaware-family-court/2002/867-A-2d-193.md
 CS00-04531	decisions/delaware-family-court/2006/927-A-2d-1009.md
-CS01-03949, 01-11410, CS 01-03948, 01-11417, CS 01-03744, 02-07888, CS02-003428, 02-07911, CS02-03742, 02-15192, CS02-03746 and 02-15241	decisions/delaware-family-court/2003/820-A-2d-516.md
 CS01-04093	decisions/delaware-family-court/2003/832-A-2d-1264.md
 CS01-04269; Petition No. 01-25453	decisions/delaware-family-court/2002/806-A-2d-616.md
 CS02-03112	decisions/delaware-family-court/2003/844-A-2d-328.md
@@ -15004,9 +15203,6 @@ Certiorari No. 72	decisions/delaware-superior-court/1901/19-Del-339.md
 Certiorari No. 76	decisions/delaware-superior-court/1907/22-Del-240.md
 Certiorari No. 89	decisions/delaware-superior-court/1906/22-Del-42.md
 Certiorari No. 9	decisions/delaware-superior-court/1900/18-Del-379.md
-Certiorari to A. N. Sutton, a Justice of the Peace in and for New Castle County No. 37	decisions/delaware-superior-court/1901/19-Del-241.md
-Certiorari to John S. Casperson, a Justice of the Peace in and for Kent County No. 13	decisions/delaware-superior-court/1899/18-Del-401.md
-Certiorari to Peter L. Cooper, a Justice of the Peace, in and for Kent County No. 10	decisions/delaware-superior-court/1900/19-Del-29.md
 Certiorari, No. 218	decisions/delaware-superior-court/1938/39-Del-223.md
 Certiorari, No. 23	decisions/delaware-superior-court/1920/31-Del-138.md
 Certiorari, No. 23	decisions/delaware-superior-court/1946/43-Del-404.md
@@ -15033,6 +15229,7 @@ Civ. A. No. 1056	decisions/delaware-court-of-chancery/1985/498-A-2d-151.md
 Civ. A. No. 1060	decisions/delaware-court-of-chancery/1991/598-A-2d-684.md
 Civ. A. No. 10738	decisions/delaware-court-of-chancery/1991/607-A-2d-465.md
 Civ. A. No. 10747	decisions/delaware-court-of-chancery/1989/576-A-2d-635.md
+Civ. A. No. 10937	decisions/delaware-court-of-chancery/1989/567-A-2d-19.md
 Civ. A. No. 11,783	decisions/delaware-court-of-chancery/1992/611-A-2d-18.md
 Civ. A. No. 11146	decisions/delaware-court-of-chancery/1991/600-A-2d-43.md
 Civ. A. No. 11152	decisions/delaware-court-of-chancery/1989/576-A-2d-625.md
@@ -15477,25 +15674,18 @@ Crim. A. No. IN92-10-1719 to 1723; ID #92010194	decisions/delaware-superior-cour
 Crim. A. No. IN95-01-0246	decisions/delaware-superior-court/1995/673-A-2d-1233.md
 Crim. A. Nos. IK94-09-0110-0111, IK94-09-0118-0119	decisions/delaware-superior-court/1995/659-A-2d-790.md
 Crim. A. Nos. IN-04-04-1104, IN-04-04-1105; ID No. 0403013451	decisions/delaware-superior-court/2005/906-A-2d-232.md
-Crim. A. Nos. IN-05-06-1529 to IN-05-06-1533 and IN-05-06-2390 to IN-05-06-2394; ID No. 0506005981	decisions/delaware-superior-court/2006/910-A-2d-279.md
 Crim. A. Nos. IN92-06-0272 thru 0274 and IN92-06-0108	decisions/delaware-superior-court/1993/643-A-2d-331.md
-Crim. A. Nos. IN93-02-1208, IN93-02-1209, IN93-02-1211, IN93-02-1212, IN93-02-1214, IN93-02-1216 to IN93-02-1219	decisions/delaware-superior-court/1993/656-A-2d-262.md
 Criminal Action No. 20	decisions/delaware-superior-court/1953/48-Del-166.md
 Criminal Action No. 259-260, 1954	decisions/delaware-superior-court/1955/49-Del-277.md
 Criminal Action No. 29	decisions/delaware-superior-court/1953/48-Del-169.md
 Criminal Action No. 99-06-1093	decisions/delaware-superior-court/2000/756-A-2d-894.md
 Criminal Action No. IN 09-01-0400	decisions/delaware-superior-court/2009/54-A-3d-1116.md
 Criminal Action Nos. IN-03-08-1214, IN-03-08-1215, IN-03-08-1216, IN-03-08-2292	decisions/delaware-superior-court/2005/891-A-2d-1066.md
-Criminal Action Nos. IN-05-06-1529 thru IN-05-06-1533 and IN-05-06-2390 thru IN-05-06-2394, ID No. 0506005981	decisions/delaware-superior-court/2007/914-A-2d-1078.md
-Criminal Action Nos. IN-07-12-0915, IN-07-12-0916, IN-07-12-0917, IN-07-12-0918, IN-07-12-0919, IN-07-12-0920; ID No. 0711017054	decisions/delaware-superior-court/2008/13-A-3d-1162.md
-Criminal Action Nos. IN-10-02-0964 thru IN-10-02-0973, IN-10-02-1889, IN-10-02-1890, and IN-10-02-1902	decisions/delaware-superior-court/2010/25-A-3d-845.md
 Criminal Action Nos. IN-94-06-1258 through IN-94-06-1269	decisions/delaware-superior-court/1996/679-A-2d-1002.md
 Criminal Action Nos. IN-99-04-0314 to IN-99-04-0319	decisions/delaware-superior-court/2008/984-A-2d-149.md
 Criminal Action Nos. IN96-06-1760, 1761, 1763, 1765, through 1770 and 1773	decisions/delaware-superior-court/1996/708-A-2d-994.md
-Criminal Action Nos. IS-09-04-0355 IS-09-04-0356, IS-09-10-0774 thru IS-09-10-0800, IS-09-10-0801 thru IS-09-10-0806	decisions/delaware-superior-court/2012/64-A-3d-856.md
 Criminal Action Nos. N-03-08-3051, N-03-08-3052	decisions/delaware-superior-court/2005/883-A-2d-881.md
 Criminal Action Number IN-12-05-1255	decisions/delaware-superior-court/2012/60-A-3d-1119.md
-Criminal Action Numbers IN-05-06-1529 thru IN-05-06-1533 and IN-05-06-2390 thru IN-05-06-2394; ID No. 0506005981	decisions/delaware-superior-court/2006/909-A-2d-596.md
 Criminal Action, 1961	decisions/delaware-superior-court/1963/55-Del-196.md
 Criminal Action, No. 46	decisions/delaware-superior-court/1962/54-Del-494.md
 DEF. I.D. No. 0112016209	decisions/delaware-superior-court/2003/820-A-2d-1171.md
@@ -15533,6 +15723,7 @@ File No. CK03-07330	decisions/delaware-family-court/2004/854-A-2d-844.md
 File No. CK93-3232; Petition No. 03-11041	decisions/delaware-family-court/2003/855-A-2d-1084.md
 File No. CN10-02395; Petition Nos. 12-31409, 12-34733, 13-28573	decisions/delaware-family-court/2014/93-A-3d-194.md
 File No. CN11-04649; Petition No. 11-29330	decisions/delaware-family-court/2013/93-A-3d-184.md
+File No. CN11-04649; Petition No. 11-29330	decisions/delaware-family-court/2013/95-A-3d-53.md
 File No. CN92-10881	decisions/delaware-family-court/1993/651-A-2d-778.md
 File No. CS03-07276; Petition No. 04-22620	decisions/delaware-family-court/2006/902-A-2d-49.md
 File No. CS06-01158; Petition No. 10-12243	decisions/delaware-family-court/2010/4-A-3d-423.md
@@ -15593,7 +15784,6 @@ ID No. 0604007616	decisions/delaware-superior-court/2006/929-A-2d-390.md
 ID No. 1106025042	decisions/delaware-superior-court/2012/59-A-3d-490.md
 ID No. 1405005374	decisions/delaware-superior-court/2015/132-A-3d-133.md
 ID No. 1705000032 (N)	decisions/delaware-superior-court/2019/212-A-3d-308.md
-ID No. 88K00421DI; Nos. IK79-11-0232R3 to IK79-11-0235R3, IK79-03-0011R3 and IK79-03-0013R3	decisions/delaware-superior-court/1994/644-A-2d-411.md
 ID No. 9807019438	decisions/delaware-superior-court/2016/140-A-3d-435.md
 ID Nos. 0611011332/0611011352 and 0611011396	decisions/delaware-superior-court/2007/988-A-2d-939.md
 ID Nos. 9412009559 and 9412009572	decisions/delaware-superior-court/1995/684-A-2d-1247.md
@@ -15682,7 +15872,6 @@ Indictment for murder of the first degree, No. 49	decisions/delaware-court-of-oy
 Indictment for practicing medicine without a license No. 79	decisions/delaware-court-of-general-sessions/1908/22-Del-395.md
 Indictment for robbery, No. 9	decisions/delaware-court-of-general-sessions/1941/41-Del-342.md
 Indictment for subornation of perjury No. 18	decisions/delaware-court-of-general-sessions/1921/31-Del-496.md
-Indictment for unlawfully keeping with intent to sell intoxicating liquors, No. 45	decisions/delaware-court-of-general-sessions/1936/37-Del-439.md
 Indictment for using a female child for the purpose of sexual intercourse No. 7	decisions/delaware-court-of-general-sessions/1900/19-Del-19.md
 Indictment, No. 19	decisions/delaware-court-of-general-sessions/1921/31-Del-279.md
 Indictment, No. 3	decisions/delaware-court-of-general-sessions/1918/30-Del-323.md
@@ -15736,7 +15925,7 @@ Petition for divorce a vinculo matrimonii, No. 23	decisions/delaware-superior-co
 Question of law arising on a special verdict in an action of debt No. 125	decisions/delaware-superior-court/1901/19-Del-88.md
 Questions of law arising on a case stated in an action of ejectment No. 87	decisions/delaware-superior-court/1900/18-Del-381.md
 Quo Warranto, No. 2	decisions/delaware-superior-court/1934/36-Del-110.md
-Read’s Notebook, 11	decisions/delaware-court-of-common-pleas/1793/1-Del-Cas-16.md
+Read’s Notebook, 11	decisions/delaware-court-of-common-pleas/1793/2-Del-Cas-9.md
 Read’s Notebook, 12	decisions/delaware-court-of-quarter-sessions/1794/2-Del-Cas-9.md
 Read’s Notebook, 21	decisions/delaware-court-of-common-pleas/1793/2-Del-Cas-13.md
 Read’s Notebook, 9	decisions/delaware-court-of-common-pleas/1793/2-Del-Cas-7.md
@@ -15995,11 +16184,11 @@ Rodney’s Notes	decisions/delaware-court-of-common-pleas/1797/2-Del-Cas-78.md
 Rodney’s Notes	decisions/delaware-court-of-common-pleas/1797/2-Del-Cas-80.md
 Rodney’s Notes	decisions/delaware-court-of-common-pleas/1797/2-Del-Cas-85.md
 Rodney’s Notes	decisions/delaware-court-of-common-pleas/1797/2-Del-Cas-96.md
-Rodney’s Notes	decisions/delaware-court-of-common-pleas/1798/1-Del-Cas-203.md
 Rodney’s Notes	decisions/delaware-court-of-common-pleas/1798/2-Del-Cas-103.md
 Rodney’s Notes	decisions/delaware-court-of-common-pleas/1798/2-Del-Cas-104.md
 Rodney’s Notes	decisions/delaware-court-of-common-pleas/1798/2-Del-Cas-105.md
 Rodney’s Notes	decisions/delaware-court-of-common-pleas/1798/2-Del-Cas-106.md
+Rodney’s Notes	decisions/delaware-court-of-common-pleas/1798/2-Del-Cas-107.md
 Rodney’s Notes	decisions/delaware-court-of-common-pleas/1798/2-Del-Cas-116.md
 Rodney’s Notes	decisions/delaware-court-of-common-pleas/1798/2-Del-Cas-121.md
 Rodney’s Notes	decisions/delaware-court-of-common-pleas/1798/2-Del-Cas-98--cap-503499.md
@@ -17254,6 +17443,7 @@ cap-1860364	decisions/delaware-superior-court/1861/7-Del-324.md
 cap-1860365	decisions/delaware-superior-court/1859/7-Del-126.md
 cap-1860366	decisions/delaware-superior-court/1858/7-Del-41.md
 cap-1860367	decisions/delaware-superior-court/1862/7-Del-405.md
+cap-1860368	decisions/delaware-superior-court/1860/7-Del-223.md
 cap-1860369	decisions/delaware-superior-court/1862/7-Del-503.md
 cap-1860370	decisions/delaware-superior-court/1860/7-Del-246.md
 cap-1860371	decisions/delaware-superior-court/1862/7-Del-519.md
@@ -17424,6 +17614,7 @@ cap-1863431	decisions/delaware-court-of-general-sessions/1854/5-Del-475.md
 cap-1863432	decisions/delaware-superior-court/1848/5-Del-40.md
 cap-1863433	decisions/delaware-superior-court/1852/5-Del-372.md
 cap-1863434	decisions/delaware-superior-court/1854/5-Del-458.md
+cap-1863435	decisions/delaware-superior-court/1848/5-Del-108.md
 cap-1863437	decisions/delaware-superior-court/1852/5-Del-392.md
 cap-1863438	decisions/delaware-superior-court/1851/5-Del-354.md
 cap-1863440	decisions/delaware-superior-court/1851/5-Del-340.md
@@ -17448,6 +17639,7 @@ cap-1863460	decisions/delaware-superior-court/1849/5-Del-172.md
 cap-1863461	decisions/delaware-court-of-general-sessions/1854/5-Del-487.md
 cap-1863462	decisions/delaware-superior-court/1848/5-Del-124.md
 cap-1863463	decisions/delaware-superior-court/1851/5-Del-335.md
+cap-1863464	decisions/delaware-superior-court/1854/5-Del-437.md
 cap-1863465	decisions/delaware-superior-court/1852/5-Del-386.md
 cap-1863466	decisions/delaware-superior-court/1851/5-Del-321.md
 cap-1863467	decisions/delaware-superior-court/1851/5-Del-320.md
@@ -18046,6 +18238,7 @@ cap-1868012	decisions/delaware-superior-court/1834/1-Del-363.md
 cap-1868014	decisions/delaware-superior-court/1833/1-Del-138--cap-1868014.md
 cap-1868016	decisions/delaware-superior-court/1835/1-Del-508.md
 cap-1868017	decisions/delaware-superior-court/1832/1-Del-17.md
+cap-1868019	decisions/delaware-superior-court/1834/1-Del-464.md
 cap-1868020	decisions/delaware-superior-court/1834/1-Del-324.md
 cap-1868024	decisions/delaware-superior-court/1832/1-Del-123--cap-1868024.md
 cap-1868026	decisions/delaware-superior-court/1835/1-Del-496.md
@@ -18066,6 +18259,7 @@ cap-1868066	decisions/delaware-superior-court/1834/1-Del-439.md
 cap-1868072	decisions/delaware-superior-court/1832/1-Del-43.md
 cap-1868074	decisions/delaware-superior-court/1834/1-Del-368.md
 cap-1868075	decisions/delaware-superior-court/1834/1-Del-323.md
+cap-1868076	decisions/delaware-superior-court/1835/1-Del-524.md
 cap-1868077	decisions/delaware-superior-court/1834/1-Del-348.md
 cap-1868079	decisions/delaware-superior-court/1835/1-Del-495.md
 cap-1868086	decisions/delaware-superior-court/1833/1-Del-233.md
@@ -18077,6 +18271,7 @@ cap-1868098	decisions/delaware-superior-court/1835/1-Del-498--cap-1868098.md
 cap-1868100	decisions/delaware-superior-court/1834/1-Del-347--cap-1868100.md
 cap-1868102	decisions/delaware-superior-court/1832/1-Del-125.md
 cap-1868106	decisions/delaware-superior-court/1833/1-Del-225.md
+cap-1868111	decisions/delaware-superior-court/1835/1-Del-476.md
 cap-1868113	decisions/delaware-superior-court/1832/1-Del-7.md
 cap-1868115	decisions/delaware-superior-court/1832/1-Del-75.md
 cap-1868117	decisions/delaware-superior-court/1834/1-Del-339.md
@@ -18286,6 +18481,7 @@ cap-418095	decisions/delaware-court-of-general-sessions/1913/27-Del-469.md
 cap-418096	decisions/delaware-superior-court/1913/27-Del-86.md
 cap-418097	decisions/delaware-superior-court/1914/27-Del-555.md
 cap-418098	decisions/delaware-superior-court/1912/27-Del-298.md
+cap-418099	decisions/delaware-superior-court/1913/27-Del-91.md
 cap-418100	decisions/delaware-superior-court/1913/27-Del-24.md
 cap-418101	decisions/delaware-superior-court/1913/27-Del-519.md
 cap-418102	decisions/delaware-superior-court/1913/27-Del-414.md
@@ -18861,6 +19057,7 @@ cap-427935	decisions/delaware-court-of-general-sessions/1922/32-Del-133.md
 cap-427936	decisions/delaware-court-of-oyer-and-terminer/1923/32-Del-232.md
 cap-427937	decisions/delaware-superior-court/1924/32-Del-561.md
 cap-427938	decisions/delaware-superior-court/1924/32-Del-490.md
+cap-429289	decisions/delaware-superior-court/1928/34-Del-1.md
 cap-429290	decisions/delaware-superior-court/1927/33-Del-489.md
 cap-429291	decisions/delaware-superior-court/1928/33-Del-530.md
 cap-429292	decisions/delaware-superior-court/1927/33-Del-564.md
@@ -19981,10 +20178,129 @@ cap-455434	decisions/delaware-superior-court/1957/50-Del-310.md
 cap-455436	decisions/delaware-superior-court/1957/50-Del-451.md
 cap-455438	decisions/delaware-superior-court/1957/50-Del-343.md
 cap-455439	decisions/delaware-superior-court/1957/50-Del-274.md
+cap-456880	decisions/delaware-court-of-chancery/1861/2-Del-Ch-260.md
+cap-456881	decisions/delaware-court-of-chancery/1861/2-Del-Ch-284.md
+cap-456882	decisions/delaware-court-of-chancery/1864/2-Del-Ch-324.md
+cap-456883	decisions/delaware-court-of-chancery/1847/2-Del-Ch-135.md
+cap-456884	decisions/delaware-court-of-chancery/1860/2-Del-Ch-236.md
+cap-456885	decisions/delaware-court-of-chancery/1847/2-Del-Ch-392.md
+cap-456886	decisions/delaware-court-of-chancery/1846/2-Del-Ch-125.md
+cap-456887	decisions/delaware-court-of-chancery/1837/2-Del-Ch-34.md
+cap-456888	decisions/delaware-court-of-chancery/1861/2-Del-Ch-269.md
+cap-456889	decisions/delaware-court-of-chancery/1861/2-Del-Ch-290.md
+cap-456890	decisions/delaware-court-of-chancery/1860/2-Del-Ch-233.md
+cap-456891	decisions/delaware-court-of-chancery/1861/2-Del-Ch-278.md
+cap-456892	decisions/delaware-court-of-chancery/1866/2-Del-Ch-333.md
+cap-456893	decisions/delaware-court-of-chancery/1858/2-Del-Ch-171.md
+cap-456894	decisions/delaware-court-of-chancery/1853/2-Del-Ch-165.md
+cap-456895	decisions/delaware-court-of-chancery/1859/2-Del-Ch-230.md
+cap-456896	decisions/delaware-court-of-chancery/1837/2-Del-Ch-27.md
+cap-456897	decisions/delaware-court-of-chancery/1859/2-Del-Ch-200.md
+cap-456898	decisions/delaware-court-of-chancery/1842/2-Del-Ch-92.md
+cap-456899	decisions/delaware-court-of-chancery/1859/2-Del-Ch-188.md
+cap-456900	decisions/delaware-court-of-chancery/1859/2-Del-Ch-197.md
+cap-456901	decisions/delaware-court-of-chancery/1865/2-Del-Ch-331.md
+cap-456902	decisions/delaware-court-of-chancery/1838/2-Del-Ch-46.md
+cap-456903	decisions/delaware-court-of-chancery/1864/2-Del-Ch-320.md
+cap-456905	decisions/delaware-court-of-chancery/1859/2-Del-Ch-219.md
+cap-456906	decisions/delaware-court-of-chancery/1860/2-Del-Ch-247.md
+cap-456907	decisions/delaware-court-of-chancery/1861/2-Del-Ch-266.md
+cap-456908	decisions/delaware-court-of-chancery/1862/2-Del-Ch-297.md
+cap-456909	decisions/delaware-court-of-chancery/1836/2-Del-Ch-20.md
+cap-456910	decisions/delaware-court-of-chancery/1863/2-Del-Ch-314.md
+cap-456911	decisions/delaware-court-of-chancery/1843/2-Del-Ch-95.md
+cap-456912	decisions/delaware-court-of-chancery/1859/2-Del-Ch-206.md
+cap-456913	decisions/delaware-court-of-chancery/1861/2-Del-Ch-273.md
+cap-456914	decisions/delaware-court-of-chancery/1859/2-Del-Ch-191.md
+cap-456915	decisions/delaware-court-of-chancery/1836/2-Del-Ch-17.md
+cap-456916	decisions/delaware-court-of-chancery/1865/2-Del-Ch-326.md
+cap-456917	decisions/delaware-court-of-chancery/1835/2-Del-Ch-12.md
+cap-456918	decisions/delaware-court-of-chancery/1837/2-Del-Ch-44.md
+cap-456919	decisions/delaware-court-of-chancery/1840/2-Del-Ch-86.md
+cap-456920	decisions/delaware-court-of-chancery/1847/2-Del-Ch-130.md
+cap-456921	decisions/delaware-court-of-chancery/1838/2-Del-Ch-61.md
+cap-456922	decisions/delaware-court-of-chancery/1840/2-Del-Ch-83.md
+cap-456923	decisions/delaware-court-of-chancery/1868/2-Del-Ch-386.md
+cap-456924	decisions/delaware-court-of-chancery/1838/2-Del-Ch-58.md
+cap-456925	decisions/delaware-court-of-chancery/1840/2-Del-Ch-72.md
+cap-456926	decisions/delaware-court-of-chancery/1859/2-Del-Ch-227.md
+cap-456927	decisions/delaware-court-of-chancery/1851/2-Del-Ch-141.md
+cap-456928	decisions/delaware-court-of-chancery/1845/2-Del-Ch-110.md
+cap-456929	decisions/delaware-court-of-chancery/1864/2-Del-Ch-318.md
+cap-456930	decisions/delaware-court-of-chancery/1858/2-Del-Ch-176.md
+cap-456931	decisions/delaware-court-of-chancery/1865/2-Del-Ch-328.md
+cap-456932	decisions/delaware-court-of-chancery/1837/2-Del-Ch-23.md
+cap-456933	decisions/delaware-court-of-chancery/1845/2-Del-Ch-102.md
+cap-456934	decisions/delaware-court-of-chancery/1833/2-Del-Ch-1.md
+cap-456935	decisions/delaware-court-of-chancery/1862/2-Del-Ch-304.md
+cap-457792	decisions/delaware-court-of-chancery/1819/1-Del-Ch-88.md
+cap-457793	decisions/delaware-court-of-chancery/1822/1-Del-Ch-184.md
+cap-457794	decisions/delaware-court-of-chancery/1821/1-Del-Ch-130.md
+cap-457795	decisions/delaware-court-of-chancery/1830/1-Del-Ch-342.md
+cap-457796	decisions/delaware-court-of-chancery/1823/1-Del-Ch-256.md
+cap-457797	decisions/delaware-court-of-chancery/1824/1-Del-Ch-274.md
+cap-457798	decisions/delaware-court-of-chancery/1824/1-Del-Ch-261.md
+cap-457799	decisions/delaware-court-of-chancery/1822/1-Del-Ch-187.md
+cap-457800	decisions/delaware-court-of-chancery/1820/1-Del-Ch-116.md
+cap-457801	decisions/delaware-court-of-chancery/1831/1-Del-Ch-399.md
+cap-457802	decisions/delaware-court-of-chancery/1821/1-Del-Ch-146.md
+cap-457803	decisions/delaware-court-of-chancery/1819/1-Del-Ch-82.md
+cap-457804	decisions/delaware-court-of-chancery/1830/1-Del-Ch-359.md
+cap-457805	decisions/delaware-court-of-chancery/1818/1-Del-Ch-57.md
+cap-457806	decisions/delaware-court-of-chancery/1825/1-Del-Ch-298.md
+cap-457807	decisions/delaware-court-of-chancery/1815/1-Del-Ch-11.md
+cap-457808	decisions/delaware-court-of-chancery/1820/1-Del-Ch-113.md
+cap-457809	decisions/delaware-court-of-chancery/1822/1-Del-Ch-230.md
+cap-457810	decisions/delaware-court-of-chancery/1820/1-Del-Ch-124.md
+cap-457811	decisions/delaware-court-of-chancery/1821/1-Del-Ch-156.md
+cap-457812	decisions/delaware-court-of-chancery/1814/1-Del-Ch-1.md
+cap-457813	decisions/delaware-court-of-chancery/1818/1-Del-Ch-35.md
+cap-457814	decisions/delaware-court-of-chancery/1833/1-Del-Ch-409.md
+cap-457815	decisions/delaware-court-of-chancery/1820/1-Del-Ch-114.md
+cap-457817	decisions/delaware-court-of-chancery/1827/1-Del-Ch-320.md
+cap-457818	decisions/delaware-court-of-chancery/1830/1-Del-Ch-345.md
+cap-457819	decisions/delaware-court-of-chancery/1823/1-Del-Ch-253.md
+cap-457820	decisions/delaware-court-of-chancery/1819/1-Del-Ch-70.md
+cap-457821	decisions/delaware-court-of-chancery/1819/1-Del-Ch-72.md
+cap-457822	decisions/delaware-court-of-chancery/1821/1-Del-Ch-133.md
+cap-457823	decisions/delaware-court-of-chancery/1820/1-Del-Ch-122.md
+cap-457824	decisions/delaware-court-of-chancery/1822/1-Del-Ch-226.md
+cap-457825	decisions/delaware-court-of-chancery/1819/1-Del-Ch-77.md
+cap-457826	decisions/delaware-court-of-chancery/1820/1-Del-Ch-128.md
+cap-457827	decisions/delaware-court-of-chancery/1833/1-Del-Ch-435.md
+cap-457828	decisions/delaware-court-of-chancery/1825/1-Del-Ch-310.md
+cap-457829	decisions/delaware-court-of-chancery/1833/1-Del-Ch-406.md
+cap-457830	decisions/delaware-court-of-chancery/1833/1-Del-Ch-416.md
+cap-457831	decisions/delaware-court-of-chancery/1823/1-Del-Ch-271.md
+cap-457832	decisions/delaware-court-of-chancery/1816/1-Del-Ch-13.md
+cap-457833	decisions/delaware-court-of-chancery/1831/1-Del-Ch-388.md
+cap-457834	decisions/delaware-court-of-chancery/1818/1-Del-Ch-32.md
+cap-457835	decisions/delaware-court-of-chancery/1819/1-Del-Ch-64.md
+cap-457836	decisions/delaware-court-of-chancery/1830/1-Del-Ch-349.md
+cap-457837	decisions/delaware-court-of-chancery/1827/1-Del-Ch-331.md
+cap-457838	decisions/delaware-orphans-court/1822/1-Del-Ch-457.md
+cap-457839	decisions/delaware-court-of-chancery/1825/1-Del-Ch-284.md
+cap-457840	decisions/delaware-court-of-chancery/1820/1-Del-Ch-120.md
+cap-457841	decisions/delaware-court-of-chancery/1821/1-Del-Ch-167.md
+cap-457842	decisions/delaware-court-of-chancery/1819/1-Del-Ch-74.md
+cap-457843	decisions/delaware-court-of-chancery/1831/1-Del-Ch-368.md
+cap-457844	decisions/delaware-court-of-chancery/1821/1-Del-Ch-177.md
+cap-457845	decisions/delaware-court-of-chancery/1830/1-Del-Ch-353.md
+cap-457846	decisions/delaware-court-of-chancery/1817/1-Del-Ch-23.md
+cap-457847	decisions/delaware-court-of-chancery/1817/1-Del-Ch-25.md
+cap-457848	decisions/delaware-court-of-chancery/1823/1-Del-Ch-241.md
+cap-457849	decisions/delaware-court-of-chancery/1819/1-Del-Ch-68.md
+cap-457850	decisions/delaware-court-of-chancery/1822/1-Del-Ch-233.md
+cap-457851	decisions/delaware-court-of-chancery/1825/1-Del-Ch-295.md
+cap-457852	decisions/delaware-court-of-chancery/1821/1-Del-Ch-149.md
+cap-457853	decisions/delaware-court-of-chancery/1823/1-Del-Ch-244.md
+cap-457854	decisions/delaware-court-of-chancery/1819/1-Del-Ch-93.md
+cap-457855	decisions/delaware-court-of-chancery/1818/1-Del-Ch-49.md
 cap-458117	decisions/delaware-superior-court/1966/59-Del-302.md
 cap-458133	decisions/delaware-superior-court/1965/59-Del-105.md
 cap-458137	decisions/delaware-superior-court/1966/59-Del-229.md
 cap-458141	decisions/delaware-superior-court/1966/59-Del-250.md
+cap-458145	decisions/delaware-orphans-court/1966/219-A-2d-137.md
 cap-458151	decisions/delaware-superior-court/1965/59-Del-163.md
 cap-458153	decisions/delaware-superior-court/1965/59-Del-11.md
 cap-458160	decisions/delaware-superior-court/1963/59-Del-123.md
@@ -20329,6 +20645,87 @@ cap-469022	decisions/delaware-court-of-chancery/1883/5-Del-Ch-492.md
 cap-469023	decisions/delaware-court-of-chancery/1877/5-Del-Ch-151.md
 cap-469024	decisions/delaware-court-of-chancery/1882/5-Del-Ch-433.md
 cap-469025	decisions/delaware-court-of-chancery/1878/5-Del-Ch-200.md
+cap-471167	decisions/delaware-court-of-chancery/1873/4-Del-Ch-643.md
+cap-471168	decisions/delaware-court-of-chancery/1871/4-Del-Ch-289.md
+cap-471169	decisions/delaware-court-of-chancery/1872/4-Del-Ch-559.md
+cap-471170	decisions/delaware-court-of-chancery/1872/4-Del-Ch-311.md
+cap-471171	decisions/delaware-court-of-chancery/1867/4-Del-Ch-30.md
+cap-471172	decisions/delaware-court-of-chancery/1872/4-Del-Ch-399.md
+cap-471173	decisions/delaware-court-of-chancery/1871/4-Del-Ch-198.md
+cap-471174	decisions/delaware-court-of-chancery/1871/4-Del-Ch-249.md
+cap-471175	decisions/delaware-court-of-chancery/1872/4-Del-Ch-490.md
+cap-471176	decisions/delaware-court-of-chancery/1871/4-Del-Ch-264.md
+cap-471177	decisions/delaware-court-of-chancery/1872/4-Del-Ch-503.md
+cap-471178	decisions/delaware-court-of-chancery/1871/4-Del-Ch-274.md
+cap-471179	decisions/delaware-court-of-chancery/1872/4-Del-Ch-521.md
+cap-471180	decisions/delaware-court-of-chancery/1871/4-Del-Ch-72.md
+cap-471181	decisions/delaware-court-of-chancery/1867/4-Del-Ch-27.md
+cap-471182	decisions/delaware-court-of-chancery/1871/4-Del-Ch-135.md
+cap-471183	decisions/delaware-court-of-chancery/1872/4-Del-Ch-416.md
+cap-471184	decisions/delaware-court-of-chancery/1873/4-Del-Ch-580.md
+cap-471185	decisions/delaware-court-of-chancery/1873/4-Del-Ch-598.md
+cap-471186	decisions/delaware-court-of-chancery/1868/4-Del-Ch-44.md
+cap-471187	decisions/delaware-court-of-chancery/1868/4-Del-Ch-51.md
+cap-471188	decisions/delaware-court-of-chancery/1868/4-Del-Ch-53.md
+cap-471189	decisions/delaware-court-of-chancery/1872/4-Del-Ch-508.md
+cap-471190	decisions/delaware-court-of-chancery/1869/4-Del-Ch-58.md
+cap-471191	decisions/delaware-court-of-chancery/1872/4-Del-Ch-536.md
+cap-471192	decisions/delaware-court-of-chancery/1872/4-Del-Ch-567.md
+cap-471193	decisions/delaware-court-of-chancery/1872/4-Del-Ch-357.md
+cap-471194	decisions/delaware-court-of-chancery/1871/4-Del-Ch-63.md
+cap-471195	decisions/delaware-court-of-chancery/1867/4-Del-Ch-30--cap-471195.md
+cap-471196	decisions/delaware-court-of-chancery/1872/4-Del-Ch-445.md
+cap-471197	decisions/delaware-court-of-chancery/1873/4-Del-Ch-599.md
+cap-471198	decisions/delaware-court-of-chancery/1871/4-Del-Ch-253.md
+cap-471199	decisions/delaware-court-of-chancery/1873/4-Del-Ch-615.md
+cap-471200	decisions/delaware-court-of-chancery/1873/4-Del-Ch-618.md
+cap-471201	decisions/delaware-court-of-chancery/1871/4-Del-Ch-108.md
+cap-471202	decisions/delaware-court-of-chancery/1872/4-Del-Ch-568.md
+cap-471203	decisions/delaware-court-of-chancery/1867/4-Del-Ch-24.md
+cap-471204	decisions/delaware-court-of-chancery/1867/4-Del-Ch-25.md
+cap-471205	decisions/delaware-court-of-chancery/1872/4-Del-Ch-337.md
+cap-471206	decisions/delaware-court-of-chancery/1871/4-Del-Ch-180.md
+cap-471207	decisions/delaware-court-of-chancery/1867/4-Del-Ch-43.md
+cap-471208	decisions/delaware-court-of-chancery/1871/4-Del-Ch-96.md
+cap-471209	decisions/delaware-court-of-chancery/1872/4-Del-Ch-491.md
+cap-471210	decisions/delaware-court-of-chancery/1869/4-Del-Ch-55.md
+cap-471211	decisions/delaware-court-of-chancery/1873/4-Del-Ch-634.md
+cap-471212	decisions/delaware-court-of-chancery/1866/4-Del-Ch-9.md
+cap-471213	decisions/delaware-court-of-chancery/1866/4-Del-Ch-20.md
+cap-471214	decisions/delaware-court-of-chancery/1867/4-Del-Ch-29.md
+cap-471215	decisions/delaware-court-of-chancery/1871/4-Del-Ch-117.md
+cap-471216	decisions/delaware-court-of-chancery/1871/4-Del-Ch-382.md
+cap-471217	decisions/delaware-court-of-chancery/1873/4-Del-Ch-573.md
+cap-471218	decisions/delaware-court-of-chancery/1873/4-Del-Ch-575.md
+cap-471219	decisions/delaware-court-of-chancery/1871/4-Del-Ch-269.md
+cap-472627	decisions/delaware-court-of-chancery/1867/3-Del-Ch-124.md
+cap-472628	decisions/delaware-court-of-chancery/1868/3-Del-Ch-209.md
+cap-472629	decisions/delaware-court-of-chancery/1867/3-Del-Ch-132.md
+cap-472630	decisions/delaware-court-of-chancery/1870/3-Del-Ch-466.md
+cap-472631	decisions/delaware-court-of-chancery/1868/3-Del-Ch-189.md
+cap-472632	decisions/delaware-court-of-chancery/1869/3-Del-Ch-321.md
+cap-472633	decisions/delaware-court-of-chancery/1867/3-Del-Ch-99.md
+cap-472634	decisions/delaware-court-of-chancery/1869/3-Del-Ch-348.md
+cap-472635	decisions/delaware-court-of-chancery/1869/3-Del-Ch-274.md
+cap-472636	decisions/delaware-court-of-chancery/1868/3-Del-Ch-232.md
+cap-472637	decisions/delaware-court-of-chancery/1866/3-Del-Ch-51.md
+cap-472638	decisions/delaware-court-of-chancery/1868/3-Del-Ch-239.md
+cap-472639	decisions/delaware-court-of-chancery/1868/3-Del-Ch-225.md
+cap-472640	decisions/delaware-court-of-chancery/1867/3-Del-Ch-165.md
+cap-472641	decisions/delaware-court-of-chancery/1867/3-Del-Ch-159.md
+cap-472642	decisions/delaware-court-of-chancery/1867/3-Del-Ch-153.md
+cap-472643	decisions/delaware-court-of-chancery/1866/3-Del-Ch-94.md
+cap-472644	decisions/delaware-court-of-chancery/1870/3-Del-Ch-445.md
+cap-472645	decisions/delaware-court-of-chancery/1869/3-Del-Ch-407.md
+cap-472646	decisions/delaware-court-of-chancery/1869/3-Del-Ch-269.md
+cap-472647	decisions/delaware-court-of-chancery/1869/3-Del-Ch-307.md
+cap-472648	decisions/delaware-court-of-chancery/1869/3-Del-Ch-260.md
+cap-472649	decisions/delaware-court-of-chancery/1871/3-Del-Ch-496.md
+cap-472650	decisions/delaware-court-of-chancery/1866/3-Del-Ch-92.md
+cap-472651	decisions/delaware-court-of-chancery/1866/3-Del-Ch-9.md
+cap-472652	decisions/delaware-court-of-chancery/1871/3-Del-Ch-512.md
+cap-472653	decisions/delaware-court-of-chancery/1870/3-Del-Ch-422.md
+cap-472654	decisions/delaware-court-of-chancery/1867/3-Del-Ch-183.md
 cap-474506	decisions/delaware-court-of-chancery/1931/18-Del-Ch-212.md
 cap-474507	decisions/delaware-court-of-chancery/1931/18-Del-Ch-189.md
 cap-474508	decisions/delaware-court-of-chancery/1931/18-Del-Ch-12.md
@@ -20653,6 +21050,7 @@ cap-485071	decisions/delaware-superior-court/1875/10-Del-127.md
 cap-485072	decisions/delaware-superior-court/1876/10-Del-168.md
 cap-485073	decisions/delaware-superior-court/1879/10-Del-577.md
 cap-485074	decisions/delaware-superior-court/1879/10-Del-528.md
+cap-485075	decisions/delaware-superior-court/1879/10-Del-597.md
 cap-485076	decisions/delaware-superior-court/1876/10-Del-148.md
 cap-485077	decisions/delaware-superior-court/1877/10-Del-395.md
 cap-485078	decisions/delaware-superior-court/1877/10-Del-399.md
@@ -20712,6 +21110,7 @@ cap-485136	decisions/delaware-superior-court/1878/10-Del-461.md
 cap-485137	decisions/delaware-superior-court/1879/10-Del-521.md
 cap-485138	decisions/delaware-superior-court/1875/10-Del-25.md
 cap-485139	decisions/delaware-superior-court/1876/10-Del-163--cap-485139.md
+cap-485141	decisions/delaware-superior-court/1879/10-Del-520.md
 cap-485142	decisions/delaware-superior-court/1877/10-Del-405.md
 cap-485143	decisions/delaware-superior-court/1875/10-Del-25--cap-485143.md
 cap-485597	decisions/delaware-court-of-chancery/1952/33-Del-Ch-324.md
@@ -21271,6 +21670,7 @@ cap-503523	decisions/delaware-court-of-common-pleas/1799/2-Del-Cas-126.md
 cap-503524	decisions/delaware-court-of-chancery/1820/2-Del-Cas-571--cap-503524.md
 cap-503526	decisions/delaware-court-of-chancery/1819/2-Del-Cas-473--cap-503526.md
 cap-503527	decisions/delaware-court-of-chancery/1821/2-Del-Cas-623--cap-503527.md
+cap-503529	decisions/delaware-court-of-common-pleas/1793/2-Del-Cas-9.md
 cap-503532	decisions/delaware-court-of-quarter-sessions/1797/2-Del-Cas-237.md
 cap-503533	decisions/delaware-court-of-chancery/1821/2-Del-Cas-597.md
 cap-503534	decisions/delaware-court-of-common-pleas/1796/2-Del-Cas-60.md
@@ -21285,9 +21685,11 @@ cap-503545	decisions/delaware-court-of-chancery/1818/2-Del-Cas-455.md
 cap-503546	decisions/delaware-court-of-chancery/1818/2-Del-Cas-381.md
 cap-503547	decisions/delaware-court-of-quarter-sessions/1803/2-Del-Cas-200.md
 cap-503548	decisions/delaware-court-of-chancery/1819/2-Del-Cas-524.md
+cap-503549	decisions/delaware-court-of-common-pleas/1798/2-Del-Cas-107.md
 cap-503550	decisions/delaware-court-of-quarter-sessions/1802/2-Del-Cas-244.md
 cap-503551	decisions/delaware-court-of-chancery/1819/2-Del-Cas-459.md
 cap-503552	decisions/delaware-court-of-chancery/1818/2-Del-Cas-383.md
+cap-503553	decisions/delaware-court-of-quarter-sessions/1829/2-Del-Cas-259.md
 cap-503555	decisions/delaware-orphans-court/1819/2-Del-Cas-516.md
 cap-503556	decisions/delaware-orphans-court/1817/2-Del-Cas-345.md
 cap-503557	decisions/delaware-orphans-court/1818/2-Del-Cas-376.md
@@ -21394,6 +21796,7 @@ cap-506556	decisions/delaware-court-of-common-pleas/1794/1-Del-Cas-50.md
 cap-506558	decisions/delaware-court-of-common-pleas/1797/1-Del-Cas-434.md
 cap-506559	decisions/delaware-court-of-quarter-sessions/1793/1-Del-Cas-478.md
 cap-506560	decisions/delaware-court-of-chancery/1815/1-Del-Cas-537.md
+cap-506562	decisions/delaware-circuit-court/1793/1-Del-Cas-342.md
 cap-506564	decisions/delaware-court-of-common-pleas/1796/1-Del-Cas-111.md
 cap-506567	decisions/delaware-court-of-quarter-sessions/1799/1-Del-Cas-245.md
 cap-506568	decisions/delaware-court-of-common-pleas/1795/1-Del-Cas-67.md
@@ -21582,6 +21985,7 @@ cap-506937	decisions/delaware-court-of-quarter-sessions/1797/1-Del-Cas-161.md
 cap-506939	decisions/delaware-court-of-quarter-sessions/1793/1-Del-Cas-16.md
 cap-506941	decisions/delaware-court-of-common-pleas/1797/1-Del-Cas-496--cap-506941.md
 cap-506942	decisions/delaware-court-of-common-pleas/1794/1-Del-Cas-674.md
+cap-506943	decisions/delaware-court-of-common-pleas/1795/1-Del-Cas-361.md
 cap-506946	decisions/delaware-court-of-quarter-sessions/1819/1-Del-Cas-617--cap-506946.md
 cap-506947	decisions/delaware-court-of-common-pleas/1795/1-Del-Cas-388.md
 cap-506948	decisions/delaware-court-of-common-pleas/1818/1-Del-Cas-629.md
@@ -21592,10 +21996,33 @@ cap-506954	decisions/delaware-court-of-quarter-sessions/1796/1-Del-Cas-86.md
 cap-506955	decisions/delaware-court-of-common-pleas/1794/1-Del-Cas-51.md
 cap-506956	decisions/delaware-court-of-quarter-sessions/1796/1-Del-Cas-416.md
 cap-506957	decisions/delaware-court-of-common-pleas/1813/1-Del-Cas-508.md
+cap-509881	decisions/delaware-court-of-chancery/1967/233-A-2d-746.md
 cap-509883	decisions/delaware-court-of-chancery/1967/43-Del-Ch-443.md
+cap-509888	decisions/delaware-court-of-chancery/1967/237-A-2d-139.md
+cap-509891	decisions/delaware-court-of-chancery/1966/225-A-2d-486.md
+cap-509893	decisions/delaware-court-of-chancery/1967/235-A-2d-274.md
+cap-509894	decisions/delaware-court-of-chancery/1967/230-A-2d-762.md
+cap-509901	decisions/delaware-court-of-chancery/1965/220-A-2d-782.md
+cap-509904	decisions/delaware-court-of-chancery/1966/220-A-2d-785.md
+cap-509905	decisions/delaware-court-of-chancery/1966/221-A-2d-607.md
+cap-509909	decisions/delaware-court-of-chancery/1968/238-A-2d-843.md
+cap-509912	decisions/delaware-court-of-chancery/1966/219-A-2d-260.md
+cap-509913	decisions/delaware-court-of-chancery/1967/226-A-2d-126.md
+cap-509915	decisions/delaware-court-of-chancery/1967/231-A-2d-463.md
+cap-509916	decisions/delaware-court-of-chancery/1967/237-A-2d-143.md
+cap-509917	decisions/delaware-court-of-chancery/1966/221-A-2d-499.md
+cap-509918	decisions/delaware-court-of-chancery/1966/222-A-2d-320.md
+cap-509919	decisions/delaware-court-of-chancery/1967/233-A-2d-739.md
+cap-509920	decisions/delaware-court-of-chancery/1966/222-A-2d-794.md
+cap-509922	decisions/delaware-court-of-chancery/1966/222-A-2d-312.md
+cap-509926	decisions/delaware-court-of-chancery/1966/219-A-2d-908.md
+cap-509928	decisions/delaware-court-of-chancery/1967/231-A-2d-450.md
+cap-509931	decisions/delaware-court-of-chancery/1967/230-A-2d-769.md
 cap-510186	decisions/delaware-court-of-chancery/1964/42-Del-Ch-155.md
 cap-510187	decisions/delaware-court-of-chancery/1965/42-Del-Ch-394.md
 cap-510188	decisions/delaware-court-of-chancery/1965/42-Del-Ch-468.md
+cap-510189	decisions/delaware-court-of-chancery/1965/216-A-2d-683.md
+cap-510190	decisions/delaware-court-of-chancery/1966/219-A-2d-145.md
 cap-510191	decisions/delaware-court-of-chancery/1965/42-Del-Ch-158.md
 cap-510192	decisions/delaware-court-of-chancery/1965/42-Del-Ch-187.md
 cap-510193	decisions/delaware-court-of-chancery/1965/42-Del-Ch-456.md
@@ -21603,12 +22030,16 @@ cap-510194	decisions/delaware-court-of-chancery/1965/42-Del-Ch-348.md
 cap-510195	decisions/delaware-court-of-chancery/1964/42-Del-Ch-8.md
 cap-510196	decisions/delaware-court-of-chancery/1964/42-Del-Ch-46.md
 cap-510197	decisions/delaware-court-of-chancery/1964/42-Del-Ch-95.md
+cap-510198	decisions/delaware-court-of-chancery/1965/216-A-2d-142.md
 cap-510199	decisions/delaware-court-of-chancery/1964/42-Del-Ch-21.md
 cap-510200	decisions/delaware-court-of-chancery/1965/42-Del-Ch-340.md
 cap-510201	decisions/delaware-court-of-chancery/1964/42-Del-Ch-116.md
 cap-510202	decisions/delaware-court-of-chancery/1964/42-Del-Ch-65.md
+cap-510203	decisions/delaware-court-of-chancery/1965/215-A-2d-721.md
 cap-510204	decisions/delaware-court-of-chancery/1965/42-Del-Ch-175.md
 cap-510205	decisions/delaware-court-of-chancery/1965/42-Del-Ch-437.md
+cap-510206	decisions/delaware-court-of-chancery/1965/215-A-2d-709.md
+cap-510207	decisions/delaware-court-of-chancery/1965/215-A-2d-242.md
 cap-510208	decisions/delaware-court-of-chancery/1965/42-Del-Ch-246.md
 cap-510209	decisions/delaware-court-of-chancery/1964/42-Del-Ch-100.md
 cap-510210	decisions/delaware-court-of-chancery/1965/42-Del-Ch-330.md
@@ -21619,6 +22050,7 @@ cap-510214	decisions/delaware-court-of-chancery/1964/42-Del-Ch-118.md
 cap-510215	decisions/delaware-court-of-chancery/1964/42-Del-Ch-62.md
 cap-510216	decisions/delaware-court-of-chancery/1964/42-Del-Ch-40.md
 cap-510217	decisions/delaware-court-of-chancery/1965/42-Del-Ch-265.md
+cap-510218	decisions/delaware-court-of-chancery/1966/216-A-2d-272.md
 cap-510219	decisions/delaware-court-of-chancery/1964/42-Del-Ch-194.md
 cap-510220	decisions/delaware-court-of-chancery/1964/42-Del-Ch-67.md
 cap-510221	decisions/delaware-court-of-chancery/1965/42-Del-Ch-372.md
@@ -21628,6 +22060,7 @@ cap-510224	decisions/delaware-court-of-chancery/1964/42-Del-Ch-106.md
 cap-510225	decisions/delaware-court-of-chancery/1964/42-Del-Ch-90.md
 cap-510226	decisions/delaware-court-of-chancery/1965/42-Del-Ch-425.md
 cap-510227	decisions/delaware-court-of-chancery/1965/42-Del-Ch-406.md
+cap-510228	decisions/delaware-court-of-chancery/1966/217-A-2d-31.md
 cap-510229	decisions/delaware-court-of-chancery/1965/42-Del-Ch-296.md
 cap-510230	decisions/delaware-court-of-chancery/1949/42-Del-Ch-279.md
 cap-510231	decisions/delaware-court-of-chancery/1965/42-Del-Ch-446.md
@@ -21644,6 +22077,7 @@ cap-510241	decisions/delaware-court-of-chancery/1966/42-Del-Ch-570.md
 cap-510242	decisions/delaware-court-of-chancery/1966/42-Del-Ch-588.md
 cap-510243	decisions/delaware-court-of-chancery/1965/42-Del-Ch-227.md
 cap-510244	decisions/delaware-court-of-chancery/1960/42-Del-Ch-144.md
+cap-510245	decisions/delaware-court-of-chancery/1965/215-A-2d-250.md
 cap-510246	decisions/delaware-court-of-chancery/1964/42-Del-Ch-123.md
 cap-510247	decisions/delaware-court-of-chancery/1965/42-Del-Ch-335.md
 cap-510248	decisions/delaware-court-of-chancery/1964/42-Del-Ch-201.md
@@ -21662,6 +22096,7 @@ cap-510260	decisions/delaware-court-of-chancery/1965/42-Del-Ch-325.md
 cap-510261	decisions/delaware-court-of-chancery/1965/42-Del-Ch-378.md
 cap-510262	decisions/delaware-court-of-chancery/1965/42-Del-Ch-307.md
 cap-510263	decisions/delaware-court-of-chancery/1965/42-Del-Ch-476.md
+cap-510264	decisions/delaware-court-of-chancery/1965/215-A-2d-450.md
 cap-6034670	decisions/delaware-court-of-common-pleas/1770/1-Del-Cas-LXI.md
 cap-6034676	decisions/delaware-court-of-common-pleas/1770/1-Del-Cas-LXIV.md
 cap-6034681	decisions/delaware-orphans-court/1771/1-Del-Cas-LXII--cap-6034681.md
@@ -21885,6 +22320,7 @@ cap-6789709	decisions/delaware-court-of-chancery/1973/303-A-2d-696.md
 cap-6789730	decisions/delaware-court-of-chancery/1973/303-A-2d-698.md
 cap-6789749	decisions/delaware-court-of-chancery/1973/303-A-2d-701.md
 cap-6793741	decisions/delaware-superior-court/2016/140-A-3d-435.md
+cap-6796271	decisions/delaware-superior-court/2016/141-A-3d-1058.md
 cap-6801416	decisions/delaware-superior-court/2015/139-A-3d-845.md
 cap-6802891	decisions/delaware-superior-court/2016/138-A-3d-1160.md
 cap-6803018	decisions/delaware-superior-court/2016/136-A-3d-316.md
@@ -21933,6 +22369,7 @@ cap-6919638	decisions/delaware-superior-court/2014/100-A-3d-1059.md
 cap-6920331	decisions/delaware-court-of-chancery/2014/98-A-3d-135.md
 cap-6925680	decisions/delaware-court-of-chancery/2014/98-A-3d-924.md
 cap-6929350	decisions/delaware-superior-court/2014/95-A-3d-42.md
+cap-6929374	decisions/delaware-family-court/2013/95-A-3d-53.md
 cap-6935666	decisions/delaware-family-court/2013/93-A-3d-184.md
 cap-6935742	decisions/delaware-family-court/2014/93-A-3d-194.md
 cap-6938386	decisions/delaware-superior-court/2014/93-A-3d-656.md
@@ -22077,6 +22514,7 @@ cap-710331	decisions/delaware-court-of-chancery/1940/25-Del-Ch-172.md
 cap-710332	decisions/delaware-court-of-chancery/1940/25-Del-Ch-154.md
 cap-710333	decisions/delaware-court-of-chancery/1940/25-Del-Ch-220.md
 cap-710335	decisions/delaware-court-of-chancery/1940/25-Del-Ch-227.md
+cap-710336	decisions/delaware-court-of-chancery/1940/25-Del-Ch-193.md
 cap-710338	decisions/delaware-court-of-chancery/1940/25-Del-Ch-215.md
 cap-710339	decisions/delaware-court-of-chancery/1940/25-Del-Ch-98.md
 cap-710340	decisions/delaware-court-of-chancery/1941/25-Del-Ch-247.md
@@ -22139,6 +22577,7 @@ cap-712146	decisions/delaware-court-of-chancery/1938/23-Del-Ch-36.md
 cap-712147	decisions/delaware-court-of-chancery/1938/23-Del-Ch-138.md
 cap-712148	decisions/delaware-court-of-chancery/1938/23-Del-Ch-83.md
 cap-712152	decisions/delaware-court-of-chancery/1938/23-Del-Ch-136.md
+cap-714568	decisions/delaware-court-of-chancery/1937/22-Del-Ch-70.md
 cap-714569	decisions/delaware-court-of-chancery/1937/22-Del-Ch-82.md
 cap-714571	decisions/delaware-court-of-chancery/1937/22-Del-Ch-33.md
 cap-714572	decisions/delaware-court-of-chancery/1938/22-Del-Ch-371.md
@@ -22566,6 +23005,7 @@ cap-72454	decisions/delaware-superior-court/1881/11-Del-330.md
 cap-72455	decisions/delaware-superior-court/1883/11-Del-482.md
 cap-72456	decisions/delaware-superior-court/1881/11-Del-421.md
 cap-72457	decisions/delaware-superior-court/1881/11-Del-348.md
+cap-72458	decisions/delaware-superior-court/1880/11-Del-142.md
 cap-72459	decisions/delaware-superior-court/1880/11-Del-60.md
 cap-72461	decisions/delaware-superior-court/1881/11-Del-434.md
 cap-72462	decisions/delaware-superior-court/1880/11-Del-29.md
@@ -22834,6 +23274,7 @@ cap-7310724	decisions/delaware-superior-court/2012/64-A-3d-856.md
 cap-7310743	decisions/delaware-family-court/2013/64-A-3d-867.md
 cap-7310905	decisions/delaware-court-of-chancery/2012/57-A-3d-917.md
 cap-7310911	decisions/delaware-superior-court/2013/60-A-3d-1117.md
+cap-7310924	decisions/delaware-court-of-chancery/2012/57-A-3d-926.md
 cap-7310931	decisions/delaware-superior-court/2012/60-A-3d-1119.md
 cap-7310941	decisions/delaware-court-of-chancery/2012/57-A-3d-928.md
 cap-7311561	decisions/delaware-court-of-chancery/2012/58-A-3d-985.md
@@ -22845,6 +23286,7 @@ cap-7312147	decisions/delaware-superior-court/2010/54-A-3d-1123.md
 cap-7312156	decisions/delaware-court-of-chancery/2012/56-A-3d-1072.md
 cap-7312158	decisions/delaware-superior-court/2010/54-A-3d-1134.md
 cap-7312325	decisions/delaware-court-of-chancery/2012/50-A-3d-434.md
+cap-7312656	decisions/delaware-court-of-chancery/2011/30-A-3d-60.md
 cap-7312770	decisions/delaware-court-of-chancery/2012/46-A-3d-313.md
 cap-7312978	decisions/delaware-court-of-chancery/2012/50-A-3d-1022.md
 cap-7314032	decisions/delaware-court-of-chancery/2012/41-A-3d-432.md
@@ -22857,7 +23299,9 @@ cap-7331031	decisions/delaware-superior-court/2012/82-A-3d-1.md
 cap-7332413	decisions/delaware-court-of-chancery/2008/970-A-2d-259.md
 cap-7334046	decisions/delaware-court-of-chancery/2013/82-A-3d-731.md
 cap-7335163	decisions/delaware-court-of-chancery/2008/968-A-2d-1027.md
+cap-7345646	decisions/delaware-court-of-chancery/1989/567-A-2d-1.md
 cap-7345667	decisions/delaware-court-of-chancery/1989/566-A-2d-8.md
+cap-7345671	decisions/delaware-court-of-chancery/1989/567-A-2d-19.md
 cap-7345687	decisions/delaware-superior-court/1989/567-A-2d-29.md
 cap-7345860	decisions/delaware-superior-court/1989/565-A-2d-21.md
 cap-7346441	decisions/delaware-court-of-chancery/1995/672-A-2d-66.md
@@ -23132,6 +23576,7 @@ cap-75563	decisions/delaware-court-of-general-sessions/1899/18-Del-139.md
 cap-75564	decisions/delaware-superior-court/1899/18-Del-28.md
 cap-75565	decisions/delaware-superior-court/1900/18-Del-374.md
 cap-75566	decisions/delaware-superior-court/1900/18-Del-515.md
+cap-75568	decisions/delaware-court-of-general-sessions/1899/18-Del-143.md
 cap-75569	decisions/delaware-superior-court/1899/18-Del-32.md
 cap-75570	decisions/delaware-superior-court/1899/18-Del-34.md
 cap-75571	decisions/delaware-superior-court/1900/18-Del-524.md
@@ -24808,6 +25253,7 @@ cap-8100204	decisions/delaware-superior-court/1967/226-A-2d-919.md
 cap-8100296	decisions/delaware-court-of-chancery/1965/215-A-2d-709.md
 cap-8100336	decisions/delaware-court-of-chancery/1965/215-A-2d-721.md
 cap-8100618	decisions/delaware-court-of-chancery/1965/216-A-2d-683.md
+cap-8100643	decisions/delaware-court-of-chancery/1965/42-Del-Ch-563.md
 cap-8100806	decisions/delaware-court-of-chancery/1966/225-A-2d-486.md
 cap-8100951	decisions/delaware-superior-court/1966/219-A-2d-374.md
 cap-8101005	decisions/delaware-court-of-chancery/1965/220-A-2d-782.md
@@ -25075,10 +25521,12 @@ cap-8405168	decisions/delaware-superior-court/2006/911-A-2d-1176.md
 cap-8409452	decisions/delaware-court-of-chancery/2006/903-A-2d-324.md
 cap-8410401	decisions/delaware-court-of-chancery/2006/903-A-2d-773.md
 cap-8410416	decisions/delaware-court-of-chancery/2006/903-A-2d-786.md
+cap-8410431	decisions/delaware-court-of-chancery/2006/910-A-2d-262.md
 cap-8411465	decisions/delaware-family-court/2006/902-A-2d-49.md
 cap-8411980	decisions/delaware-superior-court/2005/901-A-2d-122.md
 cap-8412012	decisions/delaware-superior-court/2006/900-A-2d-103.md
 cap-8412031	decisions/delaware-superior-court/2006/901-A-2d-145.md
+cap-8412080	decisions/delaware-superior-court/2006/911-A-2d-1176.md
 cap-8412191	decisions/delaware-family-court/2006/900-A-2d-156.md
 cap-8415904	decisions/delaware-court-of-chancery/2006/902-A-2d-737.md
 cap-8415966	decisions/delaware-court-of-chancery/2006/902-A-2d-745.md
@@ -25347,6 +25795,7 @@ cap-8878461	decisions/delaware-superior-court/1841/3-Del-331.md
 cap-8878480	decisions/delaware-superior-court/1841/3-Del-332.md
 cap-8878496	decisions/delaware-superior-court/1841/3-Del-333.md
 cap-8878520	decisions/delaware-superior-court/1841/3-Del-334.md
+cap-8878560	decisions/delaware-superior-court/1841/3-Del-338.md
 cap-8878583	decisions/delaware-superior-court/1841/3-Del-340.md
 cap-8878593	decisions/delaware-superior-court/1841/3-Del-342.md
 cap-8878616	decisions/delaware-superior-court/1841/3-Del-342--cap-8878616.md
@@ -25386,6 +25835,7 @@ cap-8879281	decisions/delaware-superior-court/1842/3-Del-428.md
 cap-8879378	decisions/delaware-superior-court/1842/3-Del-469.md
 cap-8879392	decisions/delaware-superior-court/1842/3-Del-482.md
 cap-8879406	decisions/delaware-superior-court/1842/3-Del-483.md
+cap-8879419	decisions/delaware-superior-court/1842/3-Del-484.md
 cap-8879427	decisions/delaware-superior-court/1842/3-Del-485.md
 cap-8879441	decisions/delaware-superior-court/1842/3-Del-486.md
 cap-8879457	decisions/delaware-superior-court/1842/3-Del-487.md
