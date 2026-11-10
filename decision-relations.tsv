@@ -1,0 +1,5 @@
+path	relation	target	note
+decisions/delaware-court-of-common-pleas/1793/2-Del-Cas-7.md	same-decision-as	decisions/delaware-court-of-common-pleas/1793/1-Del-Cas-14.md	the same decision in another reporter (2 Del. Cas. 7 and 1 Del. Cas. 14), same day and text (similarity 0.92); both kept
+decisions/delaware-court-of-quarter-sessions/1793/1-Del-Cas-478.md	same-decision-as	decisions/delaware-court-of-quarter-sessions/1793/1-Del-Cas-337.md	the same decision in another reporter (1 Del. Cas. 478 and 1 Del. Cas. 337), same day and text (similarity 0.87); both kept
+decisions/delaware-superior-court/1965/215-A-2d-443.md	same-decision-as	decisions/delaware-superior-court/1965/59-Del-163.md	the same decision in another reporter (215 A.2d 443 and 59 Del. 163), same day and text (similarity 1.00); both kept
+decisions/delaware-superior-court/1966/219-A-2d-374.md	same-decision-as	decisions/delaware-superior-court/1966/59-Del-302.md	the same decision in another reporter (219 A.2d 374 and 59 Del. 302), same day and text (similarity 1.00); both kept
